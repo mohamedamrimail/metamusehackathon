@@ -8,6 +8,20 @@
 - **Everywhere you are:** on the web and as a home-screen app, on WhatsApp, and on **Meta Ray-Ban Display glasses**, where your twin floats in view and you approve with the Neural Band.
 - **Built on Meta:** four Meta models (Muse Spark, Muse Image, Muse Voice Transcribe, SAM 3.1), WhatsApp as the Meta channel, and Meta Ray-Ban Display glasses.
 
+## Hackathon submission
+
+Built for the **Meta Global AI Developer Hackathon** (Oct 26 – Nov 4, 2026) by Mohamed Amri,
+[Yousoft-IT](https://yousoft-it.com). Startups track, theme "Build for Your World".
+
+- **Demo video (3 min):** https://www.youtube.com/watch?v=jNVmFmvy1KM
+- **Live app:** https://i-persons.com (beta)
+- **Built during the hackathon:** all code in this repository was written during the event. Before the hackathon I
+  made several attempts to build i-persons on other models; none became a finished product, none was published, and
+  none of that code is in this repository.
+- **Models:** every AI model call goes to Meta models (Muse Spark, Muse Voice Transcribe, Muse Image, SAM 3.1). See
+  [Built on Meta](#built-on-meta).
+- **License:** MIT, see [LICENSE](LICENSE).
+
 ## Quick start (run it on your machine)
 
 You need **Docker** with **Compose v2.24+** (Docker Desktop, or Docker Engine with the compose plugin) and a
