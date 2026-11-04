@@ -1,0 +1,1 @@
+ALTER TYPE "public"."ai_usage_kind" ADD VALUE 'tts';

@@ -1,0 +1,5906 @@
+[
+ {
+  "id": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "base",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-00f834d0-aee8-4280-8531-0be5a9163d17.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.383125,
+    "x2": 0.61875,
+    "y1": 0.305625,
+    "y2": 0.349375
+   },
+   "face": {
+    "x1": 0.344375,
+    "x2": 0.655625,
+    "y1": 0.16625,
+    "y2": 0.551875
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.12749999999999995,
+    "x": 0.500625,
+    "y": 0.46781249999999996,
+    "box": {
+     "x1": 0.436875,
+     "x2": 0.564375,
+     "y1": 0.445,
+     "y2": 0.490625
+    }
+   },
+   "person": {
+    "x1": 0.164375,
+    "x2": 0.8375,
+    "y1": 0.054375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-00f834d0-aee8-4280-8531-0be5a9163d17-cutout.webp"
+  }
+ },
+ {
+  "id": "9e3d13cb-b75f-4f93-8e78-144188a074b4",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-9e3d13cb-b75f-4f93-8e78-144188a074b4.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.383125,
+    "x2": 0.6175,
+    "y1": 0.33125,
+    "y2": 0.351875
+   },
+   "face": {
+    "x1": 0.344375,
+    "x2": 0.65875,
+    "y1": 0.166875,
+    "y2": 0.55125
+   },
+   "mouth": {
+    "w": 0.12437500000000001,
+    "x": 0.5003124999999999,
+    "y": 0.4665625,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.5625,
+     "y1": 0.444375,
+     "y2": 0.48875
+    }
+   },
+   "person": {
+    "x1": 0.165625,
+    "x2": 0.835625,
+    "y1": 0.05375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-9e3d13cb-b75f-4f93-8e78-144188a074b4-cutout.webp"
+  }
+ },
+ {
+  "id": "a754fbaf-1317-45f0-98b2-0d62d9cd3464",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-a754fbaf-1317-45f0-98b2-0d62d9cd3464.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.381875,
+    "x2": 0.624375,
+    "y1": 0.32625,
+    "y2": 0.389375
+   },
+   "face": {
+    "x1": 0.3425,
+    "x2": 0.659375,
+    "y1": 0.18875,
+    "y2": 0.595625
+   },
+   "mouth": {
+    "w": 0.14062500000000006,
+    "x": 0.5115625,
+    "y": 0.5084375,
+    "box": {
+     "x1": 0.44125,
+     "x2": 0.581875,
+     "y1": 0.486875,
+     "y2": 0.53
+    }
+   },
+   "person": {
+    "x1": 0.23375,
+    "x2": 0.753125,
+    "y1": 0.071875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-a754fbaf-1317-45f0-98b2-0d62d9cd3464-cutout.webp"
+  }
+ },
+ {
+  "id": "ee956bdf-7ea5-4251-8df3-585fc7eb3c05",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-ee956bdf-7ea5-4251-8df3-585fc7eb3c05.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.383125,
+    "x2": 0.6175,
+    "y1": 0.304375,
+    "y2": 0.3475
+   },
+   "face": {
+    "x1": 0.333125,
+    "x2": 0.686875,
+    "y1": 0.16625,
+    "y2": 0.55125
+   },
+   "mouth": {
+    "w": 0.14250000000000002,
+    "x": 0.5,
+    "y": 0.46625,
+    "box": {
+     "x1": 0.42875,
+     "x2": 0.57125,
+     "y1": 0.4425,
+     "y2": 0.49
+    }
+   },
+   "person": {
+    "x1": 0.16375,
+    "x2": 0.83625,
+    "y1": 0.055,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ee956bdf-7ea5-4251-8df3-585fc7eb3c05-cutout.webp"
+  }
+ },
+ {
+  "id": "ea34e421-05e9-4cd9-b2bf-1e4c60443986",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-ea34e421-05e9-4cd9-b2bf-1e4c60443986.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38625,
+    "x2": 0.614375,
+    "y1": 0.28875,
+    "y2": 0.35125
+   },
+   "face": {
+    "x1": 0.34375,
+    "x2": 0.655625,
+    "y1": 0.163125,
+    "y2": 0.5625
+   },
+   "mouth": {
+    "w": 0.07,
+    "x": 0.5,
+    "y": 0.47375,
+    "box": {
+     "x1": 0.465,
+     "x2": 0.535,
+     "y1": 0.460625,
+     "y2": 0.486875
+    }
+   },
+   "person": {
+    "x1": 0.168125,
+    "x2": 0.831875,
+    "y1": 0.05875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ea34e421-05e9-4cd9-b2bf-1e4c60443986-cutout.webp"
+  }
+ },
+ {
+  "id": "5839c428-af8b-48ac-9691-8f5d998012a5",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-5839c428-af8b-48ac-9691-8f5d998012a5.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.380625,
+    "x2": 0.604375,
+    "y1": 0.2725,
+    "y2": 0.34375
+   },
+   "face": {
+    "x1": 0.336875,
+    "x2": 0.648125,
+    "y1": 0.154375,
+    "y2": 0.523125
+   },
+   "mouth": {
+    "w": 0.10812499999999997,
+    "x": 0.5203125,
+    "y": 0.4440625,
+    "box": {
+     "x1": 0.46625,
+     "x2": 0.574375,
+     "y1": 0.42125,
+     "y2": 0.466875
+    }
+   },
+   "person": {
+    "x1": 0.195,
+    "x2": 0.835625,
+    "y1": 0.06125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-5839c428-af8b-48ac-9691-8f5d998012a5-cutout.webp"
+  }
+ },
+ {
+  "id": "b2f56173-f1d8-4eda-a03d-bb7e720a53eb",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-b2f56173-f1d8-4eda-a03d-bb7e720a53eb.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.346875,
+    "x2": 0.58125,
+    "y1": 0.29625,
+    "y2": 0.356875
+   },
+   "face": {
+    "x1": 0.310625,
+    "x2": 0.61875,
+    "y1": 0.165625,
+    "y2": 0.5575
+   },
+   "mouth": {
+    "w": 0.12499999999999994,
+    "x": 0.47562499999999996,
+    "y": 0.461875,
+    "box": {
+     "x1": 0.413125,
+     "x2": 0.538125,
+     "y1": 0.44375,
+     "y2": 0.48
+    }
+   },
+   "person": {
+    "x1": 0.164375,
+    "x2": 0.8875,
+    "y1": 0.05875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-b2f56173-f1d8-4eda-a03d-bb7e720a53eb-cutout.webp"
+  }
+ },
+ {
+  "id": "6195f143-285d-4c90-b2ce-c8974884c1ae",
+  "lookId": "00f834d0-aee8-4280-8531-0be5a9163d17",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "unspecified",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-6195f143-285d-4c90-b2ce-c8974884c1ae.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3475,
+    "x2": 0.57875,
+    "y1": 0.298125,
+    "y2": 0.3575
+   },
+   "face": {
+    "x1": 0.3175,
+    "x2": 0.61625,
+    "y1": 0.16625,
+    "y2": 0.55
+   },
+   "mouth": {
+    "w": 0.130625,
+    "x": 0.4759375,
+    "y": 0.46499999999999997,
+    "box": {
+     "x1": 0.410625,
+     "x2": 0.54125,
+     "y1": 0.4425,
+     "y2": 0.4875
+    }
+   },
+   "person": {
+    "x1": 0.154375,
+    "x2": 0.915625,
+    "y1": 0.06,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-6195f143-285d-4c90-b2ce-c8974884c1ae-cutout.webp"
+  }
+ },
+ {
+  "id": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "base",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-09a03dd2-7a8e-4be5-8792-9b963cc313b3.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37125,
+    "x2": 0.628125,
+    "y1": 0.315625,
+    "y2": 0.368125
+   },
+   "face": {
+    "x1": 0.3375,
+    "x2": 0.663125,
+    "y1": 0.185625,
+    "y2": 0.555625
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.11562499999999998,
+    "x": 0.4996875,
+    "y": 0.4865625,
+    "box": {
+     "x1": 0.441875,
+     "x2": 0.5575,
+     "y1": 0.47,
+     "y2": 0.503125
+    }
+   },
+   "person": {
+    "x1": 0.188125,
+    "x2": 0.8125,
+    "y1": 0.053125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-09a03dd2-7a8e-4be5-8792-9b963cc313b3-cutout.webp"
+  }
+ },
+ {
+  "id": "be253999-25fe-4ce1-9400-c1c320bca3a8",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-be253999-25fe-4ce1-9400-c1c320bca3a8.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.378125,
+    "x2": 0.621875,
+    "y1": 0.34875,
+    "y2": 0.37
+   },
+   "face": {
+    "x1": 0.3375,
+    "x2": 0.6625,
+    "y1": 0.185625,
+    "y2": 0.555
+   },
+   "mouth": {
+    "w": 0.11562499999999998,
+    "x": 0.4996875,
+    "y": 0.485625,
+    "box": {
+     "x1": 0.441875,
+     "x2": 0.5575,
+     "y1": 0.46875,
+     "y2": 0.5025
+    }
+   },
+   "person": {
+    "x1": 0.188125,
+    "x2": 0.811875,
+    "y1": 0.053125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-be253999-25fe-4ce1-9400-c1c320bca3a8-cutout.webp"
+  }
+ },
+ {
+  "id": "ac127230-aed8-4103-b61f-069b066fb292",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-ac127230-aed8-4103-b61f-069b066fb292.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.366875,
+    "x2": 0.639375,
+    "y1": 0.348125,
+    "y2": 0.415
+   },
+   "face": {
+    "x1": 0.33,
+    "x2": 0.67,
+    "y1": 0.214375,
+    "y2": 0.614375
+   },
+   "mouth": {
+    "w": 0.1175,
+    "x": 0.499375,
+    "y": 0.5365625,
+    "box": {
+     "x1": 0.440625,
+     "x2": 0.558125,
+     "y1": 0.511875,
+     "y2": 0.56125
+    }
+   },
+   "person": {
+    "x1": 0.215625,
+    "x2": 0.755,
+    "y1": 0.068125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ac127230-aed8-4103-b61f-069b066fb292-cutout.webp"
+  }
+ },
+ {
+  "id": "d7b4f0b3-dc47-41c4-bedf-cbfca0e085f5",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-d7b4f0b3-dc47-41c4-bedf-cbfca0e085f5.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.373125,
+    "x2": 0.6275,
+    "y1": 0.31625,
+    "y2": 0.36625
+   },
+   "face": {
+    "x1": 0.338125,
+    "x2": 0.6625,
+    "y1": 0.185,
+    "y2": 0.555625
+   },
+   "mouth": {
+    "w": 0.10749999999999993,
+    "x": 0.500625,
+    "y": 0.4715625,
+    "box": {
+     "x1": 0.446875,
+     "x2": 0.554375,
+     "y1": 0.4625,
+     "y2": 0.480625
+    }
+   },
+   "person": {
+    "x1": 0.188125,
+    "x2": 0.811875,
+    "y1": 0.054375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d7b4f0b3-dc47-41c4-bedf-cbfca0e085f5-cutout.webp"
+  }
+ },
+ {
+  "id": "a6c94227-f5e9-404b-b3a0-b0081b913587",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-a6c94227-f5e9-404b-b3a0-b0081b913587.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.374375,
+    "x2": 0.623125,
+    "y1": 0.306875,
+    "y2": 0.369375
+   },
+   "face": {
+    "x1": 0.3375,
+    "x2": 0.655625,
+    "y1": 0.1825,
+    "y2": 0.565
+   },
+   "mouth": {
+    "w": 0.05937500000000007,
+    "x": 0.4996875,
+    "y": 0.4865625,
+    "box": {
+     "x1": 0.47,
+     "x2": 0.529375,
+     "y1": 0.47375,
+     "y2": 0.499375
+    }
+   },
+   "person": {
+    "x1": 0.18625,
+    "x2": 0.8125,
+    "y1": 0.055625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-a6c94227-f5e9-404b-b3a0-b0081b913587-cutout.webp"
+  }
+ },
+ {
+  "id": "4ab4e907-7c25-4395-9e43-58649e881b7e",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-4ab4e907-7c25-4395-9e43-58649e881b7e.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.374375,
+    "x2": 0.624375,
+    "y1": 0.2925,
+    "y2": 0.38
+   },
+   "face": {
+    "x1": 0.32625,
+    "x2": 0.665625,
+    "y1": 0.17625,
+    "y2": 0.5525
+   },
+   "mouth": {
+    "w": 0.11062499999999997,
+    "x": 0.5303125,
+    "y": 0.4759375,
+    "box": {
+     "x1": 0.475,
+     "x2": 0.585625,
+     "y1": 0.4525,
+     "y2": 0.499375
+    }
+   },
+   "person": {
+    "x1": 0.206875,
+    "x2": 0.82875,
+    "y1": 0.063125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-4ab4e907-7c25-4395-9e43-58649e881b7e-cutout.webp"
+  }
+ },
+ {
+  "id": "d233e2a6-d7a5-479e-8822-6a0b5e2fb765",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-d233e2a6-d7a5-479e-8822-6a0b5e2fb765.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.355625,
+    "x2": 0.604375,
+    "y1": 0.31,
+    "y2": 0.37125
+   },
+   "face": {
+    "x1": 0.31625,
+    "x2": 0.630625,
+    "y1": 0.185625,
+    "y2": 0.55875
+   },
+   "mouth": {
+    "w": 0.130625,
+    "x": 0.4859375,
+    "y": 0.47250000000000003,
+    "box": {
+     "x1": 0.420625,
+     "x2": 0.55125,
+     "y1": 0.455,
+     "y2": 0.49
+    }
+   },
+   "person": {
+    "x1": 0.1825,
+    "x2": 0.8925,
+    "y1": 0.060625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d233e2a6-d7a5-479e-8822-6a0b5e2fb765-cutout.webp"
+  }
+ },
+ {
+  "id": "d73371be-ac81-41c6-80a6-29625b58b596",
+  "lookId": "09a03dd2-7a8e-4be5-8792-9b963cc313b3",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "woman",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-d73371be-ac81-41c6-80a6-29625b58b596.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.4025,
+    "x2": 0.65625,
+    "y1": 0.3175,
+    "y2": 0.3725
+   },
+   "face": {
+    "x1": 0.36875,
+    "x2": 0.685625,
+    "y1": 0.189375,
+    "y2": 0.55875
+   },
+   "mouth": {
+    "w": 0.12124999999999997,
+    "x": 0.5293749999999999,
+    "y": 0.483125,
+    "box": {
+     "x1": 0.46875,
+     "x2": 0.59,
+     "y1": 0.460625,
+     "y2": 0.505625
+    }
+   },
+   "person": {
+    "x1": 0.0775,
+    "x2": 0.829375,
+    "y1": 0.059375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d73371be-ac81-41c6-80a6-29625b58b596-cutout.webp"
+  }
+ },
+ {
+  "id": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "base",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-110e84d9-1ea7-44e1-a3f7-52cbb118abf3.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37625,
+    "x2": 0.625625,
+    "y1": 0.325,
+    "y2": 0.378125
+   },
+   "face": {
+    "x1": 0.309375,
+    "x2": 0.70375,
+    "y1": 0.180625,
+    "y2": 0.590625
+   },
+   "look": "1",
+   "mouth": {
+    "w": 0.11749999999999994,
+    "x": 0.500625,
+    "y": 0.5037499999999999,
+    "box": {
+     "x1": 0.441875,
+     "x2": 0.559375,
+     "y1": 0.489375,
+     "y2": 0.518125
+    }
+   },
+   "person": {
+    "x1": 0.156875,
+    "x2": 0.828125,
+    "y1": 0.0625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-110e84d9-1ea7-44e1-a3f7-52cbb118abf3-cutout.webp"
+  }
+ },
+ {
+  "id": "01dcc7eb-cc59-49a8-a36a-c63812d2b73c",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-01dcc7eb-cc59-49a8-a36a-c63812d2b73c.jpg",
+  "masks": {
+   "face": {
+    "x1": 0.309375,
+    "x2": 0.70375,
+    "y1": 0.180625,
+    "y2": 0.58875
+   },
+   "mouth": {
+    "w": 0.11687499999999995,
+    "x": 0.5009375,
+    "y": 0.5021875,
+    "box": {
+     "x1": 0.4425,
+     "x2": 0.559375,
+     "y1": 0.4875,
+     "y2": 0.516875
+    }
+   },
+   "person": {
+    "x1": 0.16,
+    "x2": 0.826875,
+    "y1": 0.063125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-01dcc7eb-cc59-49a8-a36a-c63812d2b73c-cutout.webp"
+  }
+ },
+ {
+  "id": "2eac353c-24dd-478b-beef-97b1365d5627",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-2eac353c-24dd-478b-beef-97b1365d5627.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.35,
+    "x2": 0.616875,
+    "y1": 0.3425,
+    "y2": 0.41875
+   },
+   "face": {
+    "x1": 0.289375,
+    "x2": 0.700625,
+    "y1": 0.19375,
+    "y2": 0.633125
+   },
+   "mouth": {
+    "w": 0.12,
+    "x": 0.49874999999999997,
+    "y": 0.5449999999999999,
+    "box": {
+     "x1": 0.43875,
+     "x2": 0.55875,
+     "y1": 0.528125,
+     "y2": 0.561875
+    }
+   },
+   "person": {
+    "x1": 0.1325,
+    "x2": 0.8425,
+    "y1": 0.070625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-2eac353c-24dd-478b-beef-97b1365d5627-cutout.webp"
+  }
+ },
+ {
+  "id": "2f2371eb-a8b7-4b45-98a7-ac13e9996146",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-2f2371eb-a8b7-4b45-98a7-ac13e9996146.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37875,
+    "x2": 0.625,
+    "y1": 0.3275,
+    "y2": 0.374375
+   },
+   "face": {
+    "x1": 0.31,
+    "x2": 0.70375,
+    "y1": 0.179375,
+    "y2": 0.591875
+   },
+   "mouth": {
+    "w": 0.11875000000000002,
+    "x": 0.50125,
+    "y": 0.495625,
+    "box": {
+     "x1": 0.441875,
+     "x2": 0.560625,
+     "y1": 0.484375,
+     "y2": 0.506875
+    }
+   },
+   "person": {
+    "x1": 0.159375,
+    "x2": 0.82625,
+    "y1": 0.0625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-2f2371eb-a8b7-4b45-98a7-ac13e9996146-cutout.webp"
+  }
+ },
+ {
+  "id": "e064dac3-9169-441f-8770-8241b77c8f0f",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-e064dac3-9169-441f-8770-8241b77c8f0f.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37625,
+    "x2": 0.62375,
+    "y1": 0.315625,
+    "y2": 0.379375
+   },
+   "face": {
+    "x1": 0.30875,
+    "x2": 0.70375,
+    "y1": 0.17875,
+    "y2": 0.608125
+   },
+   "mouth": {
+    "w": 0.07,
+    "x": 0.50125,
+    "y": 0.5175000000000001,
+    "box": {
+     "x1": 0.46625,
+     "x2": 0.53625,
+     "y1": 0.50375,
+     "y2": 0.53125
+    }
+   },
+   "person": {
+    "x1": 0.16,
+    "x2": 0.8275,
+    "y1": 0.065,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-e064dac3-9169-441f-8770-8241b77c8f0f-cutout.webp"
+  }
+ },
+ {
+  "id": "8e02cf4a-deb9-4343-9c16-f51fae0a441e",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-8e02cf4a-deb9-4343-9c16-f51fae0a441e.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37875,
+    "x2": 0.61875,
+    "y1": 0.301875,
+    "y2": 0.36625
+   },
+   "face": {
+    "x1": 0.3,
+    "x2": 0.680625,
+    "y1": 0.174375,
+    "y2": 0.5925
+   },
+   "mouth": {
+    "w": 0.11062499999999997,
+    "x": 0.5184375,
+    "y": 0.4840625,
+    "box": {
+     "x1": 0.463125,
+     "x2": 0.57375,
+     "y1": 0.469375,
+     "y2": 0.49875
+    }
+   },
+   "person": {
+    "x1": 0.14625,
+    "x2": 0.8125,
+    "y1": 0.07,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-8e02cf4a-deb9-4343-9c16-f51fae0a441e-cutout.webp"
+  }
+ },
+ {
+  "id": "4306b957-8abb-4480-92e9-f5413b46caf7",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-4306b957-8abb-4480-92e9-f5413b46caf7.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38125,
+    "x2": 0.621875,
+    "y1": 0.32625,
+    "y2": 0.380625
+   },
+   "face": {
+    "x1": 0.300625,
+    "x2": 0.689375,
+    "y1": 0.1825,
+    "y2": 0.59375
+   },
+   "mouth": {
+    "w": 0.12062500000000004,
+    "x": 0.49593750000000003,
+    "y": 0.4978125,
+    "box": {
+     "x1": 0.435625,
+     "x2": 0.55625,
+     "y1": 0.485625,
+     "y2": 0.51
+    }
+   },
+   "person": {
+    "x1": 0.146875,
+    "x2": 0.874375,
+    "y1": 0.06625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-4306b957-8abb-4480-92e9-f5413b46caf7-cutout.webp"
+  }
+ },
+ {
+  "id": "4d551506-ceba-4de5-9c5a-0714421db1cf",
+  "lookId": "110e84d9-1ea7-44e1-a3f7-52cbb118abf3",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "woman",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-4d551506-ceba-4de5-9c5a-0714421db1cf.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.363125,
+    "x2": 0.605625,
+    "y1": 0.323125,
+    "y2": 0.3775
+   },
+   "face": {
+    "x1": 0.295,
+    "x2": 0.678125,
+    "y1": 0.183125,
+    "y2": 0.5875
+   },
+   "mouth": {
+    "w": 0.11875000000000002,
+    "x": 0.48562500000000003,
+    "y": 0.50125,
+    "box": {
+     "x1": 0.42625,
+     "x2": 0.545,
+     "y1": 0.48625,
+     "y2": 0.51625
+    }
+   },
+   "person": {
+    "x1": 0.146875,
+    "x2": 0.943125,
+    "y1": 0.0675,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-4d551506-ceba-4de5-9c5a-0714421db1cf-cutout.webp"
+  }
+ },
+ {
+  "id": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "base",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-1b7576a2-dac1-4eba-953e-78ab5700fe3e.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.614375,
+    "y1": 0.29625,
+    "y2": 0.3425
+   },
+   "face": {
+    "x1": 0.350625,
+    "x2": 0.648125,
+    "y1": 0.170625,
+    "y2": 0.53
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.11874999999999997,
+    "x": 0.49875,
+    "y": 0.4525,
+    "box": {
+     "x1": 0.439375,
+     "x2": 0.558125,
+     "y1": 0.43125,
+     "y2": 0.47375
+    }
+   },
+   "person": {
+    "x1": 0.153125,
+    "x2": 0.845,
+    "y1": 0.05375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-1b7576a2-dac1-4eba-953e-78ab5700fe3e-cutout.webp"
+  }
+ },
+ {
+  "id": "fc6e72b6-fcb9-4da5-bcb7-7fb60b26a9eb",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-fc6e72b6-fcb9-4da5-bcb7-7fb60b26a9eb.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3875,
+    "x2": 0.613125,
+    "y1": 0.324375,
+    "y2": 0.343125
+   },
+   "face": {
+    "x1": 0.35,
+    "x2": 0.65125,
+    "y1": 0.17,
+    "y2": 0.529375
+   },
+   "mouth": {
+    "w": 0.11874999999999997,
+    "x": 0.49875,
+    "y": 0.45125,
+    "box": {
+     "x1": 0.439375,
+     "x2": 0.558125,
+     "y1": 0.43,
+     "y2": 0.4725
+    }
+   },
+   "person": {
+    "x1": 0.15375,
+    "x2": 0.844375,
+    "y1": 0.0525,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-fc6e72b6-fcb9-4da5-bcb7-7fb60b26a9eb-cutout.webp"
+  }
+ },
+ {
+  "id": "98ca5593-5bac-40b9-b2c1-bbffb8d9a04d",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-98ca5593-5bac-40b9-b2c1-bbffb8d9a04d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.35875,
+    "x2": 0.59625,
+    "y1": 0.31625,
+    "y2": 0.38875
+   },
+   "face": {
+    "x1": 0.325625,
+    "x2": 0.629375,
+    "y1": 0.19375,
+    "y2": 0.579375
+   },
+   "mouth": {
+    "w": 0.12375000000000003,
+    "x": 0.48875,
+    "y": 0.5,
+    "box": {
+     "x1": 0.426875,
+     "x2": 0.550625,
+     "y1": 0.476875,
+     "y2": 0.523125
+    }
+   },
+   "person": {
+    "x1": 0.2025,
+    "x2": 0.806875,
+    "y1": 0.065,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-98ca5593-5bac-40b9-b2c1-bbffb8d9a04d-cutout.webp"
+  }
+ },
+ {
+  "id": "0cadafdb-96c9-4252-b20a-a7590ba9c65d",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-0cadafdb-96c9-4252-b20a-a7590ba9c65d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.386875,
+    "x2": 0.614375,
+    "y1": 0.295,
+    "y2": 0.340625
+   },
+   "face": {
+    "x1": 0.35125,
+    "x2": 0.65,
+    "y1": 0.17125,
+    "y2": 0.53125
+   },
+   "mouth": {
+    "w": 0.13062500000000005,
+    "x": 0.5003125,
+    "y": 0.454375,
+    "box": {
+     "x1": 0.435,
+     "x2": 0.565625,
+     "y1": 0.430625,
+     "y2": 0.478125
+    }
+   },
+   "person": {
+    "x1": 0.153125,
+    "x2": 0.844375,
+    "y1": 0.054375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-0cadafdb-96c9-4252-b20a-a7590ba9c65d-cutout.webp"
+  }
+ },
+ {
+  "id": "6f19c729-64b2-42cd-a027-0d6bd98b0afb",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-6f19c729-64b2-42cd-a027-0d6bd98b0afb.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39,
+    "x2": 0.60875,
+    "y1": 0.281875,
+    "y2": 0.3425
+   },
+   "face": {
+    "x1": 0.356875,
+    "x2": 0.64,
+    "y1": 0.16625,
+    "y2": 0.538125
+   },
+   "mouth": {
+    "w": 0.06187500000000001,
+    "x": 0.4990625,
+    "y": 0.45718749999999997,
+    "box": {
+     "x1": 0.468125,
+     "x2": 0.53,
+     "y1": 0.445,
+     "y2": 0.469375
+    }
+   },
+   "person": {
+    "x1": 0.158125,
+    "x2": 0.8375,
+    "y1": 0.0575,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-6f19c729-64b2-42cd-a027-0d6bd98b0afb-cutout.webp"
+  }
+ },
+ {
+  "id": "21684e19-0a36-47ff-ba15-d16d8c145467",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-21684e19-0a36-47ff-ba15-d16d8c145467.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.389375,
+    "x2": 0.61,
+    "y1": 0.273125,
+    "y2": 0.35
+   },
+   "face": {
+    "x1": 0.345625,
+    "x2": 0.6525,
+    "y1": 0.164375,
+    "y2": 0.52125
+   },
+   "mouth": {
+    "w": 0.09374999999999994,
+    "x": 0.528125,
+    "y": 0.4446875,
+    "box": {
+     "x1": 0.48125,
+     "x2": 0.575,
+     "y1": 0.42125,
+     "y2": 0.468125
+    }
+   },
+   "person": {
+    "x1": 0.178125,
+    "x2": 0.843125,
+    "y1": 0.065,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-21684e19-0a36-47ff-ba15-d16d8c145467-cutout.webp"
+  }
+ },
+ {
+  "id": "6b94b62d-b471-45e0-a7df-7421c44fb3e7",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-6b94b62d-b471-45e0-a7df-7421c44fb3e7.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.364375,
+    "x2": 0.58875,
+    "y1": 0.29125,
+    "y2": 0.343125
+   },
+   "face": {
+    "x1": 0.318125,
+    "x2": 0.634375,
+    "y1": 0.17125,
+    "y2": 0.533125
+   },
+   "mouth": {
+    "w": 0.12749999999999995,
+    "x": 0.475,
+    "y": 0.44499999999999995,
+    "box": {
+     "x1": 0.41125,
+     "x2": 0.53875,
+     "y1": 0.428125,
+     "y2": 0.461875
+    }
+   },
+   "person": {
+    "x1": 0.14125,
+    "x2": 0.895,
+    "y1": 0.05875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-6b94b62d-b471-45e0-a7df-7421c44fb3e7-cutout.webp"
+  }
+ },
+ {
+  "id": "3fbe43c9-b681-48a3-ba02-17ff5ba05242",
+  "lookId": "1b7576a2-dac1-4eba-953e-78ab5700fe3e",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "unspecified",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-3fbe43c9-b681-48a3-ba02-17ff5ba05242.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.359375,
+    "x2": 0.58375,
+    "y1": 0.2975,
+    "y2": 0.35125
+   },
+   "face": {
+    "x1": 0.325,
+    "x2": 0.615625,
+    "y1": 0.1775,
+    "y2": 0.53375
+   },
+   "mouth": {
+    "w": 0.12562499999999993,
+    "x": 0.4759375,
+    "y": 0.45625,
+    "box": {
+     "x1": 0.413125,
+     "x2": 0.53875,
+     "y1": 0.435,
+     "y2": 0.4775
+    }
+   },
+   "person": {
+    "x1": 0.156875,
+    "x2": 0.944375,
+    "y1": 0.06375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-3fbe43c9-b681-48a3-ba02-17ff5ba05242-cutout.webp"
+  }
+ },
+ {
+  "id": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "base",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-3a92ae6d-4894-46fb-a956-43d3b6156e11.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385,
+    "x2": 0.61,
+    "y1": 0.300625,
+    "y2": 0.340625
+   },
+   "face": {
+    "x1": 0.316875,
+    "x2": 0.676875,
+    "y1": 0.161875,
+    "y2": 0.541875
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.12562500000000004,
+    "x": 0.4978125,
+    "y": 0.4603125,
+    "box": {
+     "x1": 0.435,
+     "x2": 0.560625,
+     "y1": 0.438125,
+     "y2": 0.4825
+    }
+   },
+   "person": {
+    "x1": 0.174375,
+    "x2": 0.825,
+    "y1": 0.051875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-3a92ae6d-4894-46fb-a956-43d3b6156e11-cutout.webp"
+  }
+ },
+ {
+  "id": "ad964f07-0d59-4ad5-af23-0a32dbcb2477",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-ad964f07-0d59-4ad5-af23-0a32dbcb2477.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385,
+    "x2": 0.6075,
+    "y1": 0.32625,
+    "y2": 0.344375
+   },
+   "face": {
+    "x1": 0.3175,
+    "x2": 0.67625,
+    "y1": 0.161875,
+    "y2": 0.540625
+   },
+   "mouth": {
+    "w": 0.12562500000000004,
+    "x": 0.4971875,
+    "y": 0.4596875,
+    "box": {
+     "x1": 0.434375,
+     "x2": 0.56,
+     "y1": 0.4375,
+     "y2": 0.481875
+    }
+   },
+   "person": {
+    "x1": 0.174375,
+    "x2": 0.82375,
+    "y1": 0.051875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ad964f07-0d59-4ad5-af23-0a32dbcb2477-cutout.webp"
+  }
+ },
+ {
+  "id": "d08e3fe5-3127-4487-9377-b24bdad142f1",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-d08e3fe5-3127-4487-9377-b24bdad142f1.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.383125,
+    "x2": 0.611875,
+    "y1": 0.33,
+    "y2": 0.379375
+   },
+   "face": {
+    "x1": 0.3325,
+    "x2": 0.67625,
+    "y1": 0.19125,
+    "y2": 0.58625
+   },
+   "mouth": {
+    "w": 0.12937499999999996,
+    "x": 0.4984375,
+    "y": 0.505,
+    "box": {
+     "x1": 0.43375,
+     "x2": 0.563125,
+     "y1": 0.483125,
+     "y2": 0.526875
+    }
+   },
+   "person": {
+    "x1": 0.22375,
+    "x2": 0.7525,
+    "y1": 0.0725,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d08e3fe5-3127-4487-9377-b24bdad142f1-cutout.webp"
+  }
+ },
+ {
+  "id": "3ac3a0d5-0626-4019-b2c9-d0d2712e47a6",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-3ac3a0d5-0626-4019-b2c9-d0d2712e47a6.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.609375,
+    "y1": 0.300625,
+    "y2": 0.338125
+   },
+   "face": {
+    "x1": 0.316875,
+    "x2": 0.67625,
+    "y1": 0.1625,
+    "y2": 0.541875
+   },
+   "mouth": {
+    "w": 0.10374999999999995,
+    "x": 0.49687499999999996,
+    "y": 0.45406250000000004,
+    "box": {
+     "x1": 0.445,
+     "x2": 0.54875,
+     "y1": 0.444375,
+     "y2": 0.46375
+    }
+   },
+   "person": {
+    "x1": 0.17375,
+    "x2": 0.824375,
+    "y1": 0.0525,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-3ac3a0d5-0626-4019-b2c9-d0d2712e47a6-cutout.webp"
+  }
+ },
+ {
+  "id": "d38053e0-4f6f-40c6-9f65-eade961f6557",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-d38053e0-4f6f-40c6-9f65-eade961f6557.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.386875,
+    "x2": 0.6075,
+    "y1": 0.28875,
+    "y2": 0.343125
+   },
+   "face": {
+    "x1": 0.3425,
+    "x2": 0.661875,
+    "y1": 0.16125,
+    "y2": 0.559375
+   },
+   "mouth": {
+    "w": 0.07062499999999994,
+    "x": 0.4978125,
+    "y": 0.4759375,
+    "box": {
+     "x1": 0.4625,
+     "x2": 0.533125,
+     "y1": 0.4625,
+     "y2": 0.489375
+    }
+   },
+   "person": {
+    "x1": 0.175625,
+    "x2": 0.8225,
+    "y1": 0.053125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d38053e0-4f6f-40c6-9f65-eade961f6557-cutout.webp"
+  }
+ },
+ {
+  "id": "003eccde-21a5-4485-ad07-e627636a159f",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-003eccde-21a5-4485-ad07-e627636a159f.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.40125,
+    "x2": 0.6175,
+    "y1": 0.2725,
+    "y2": 0.33625
+   },
+   "face": {
+    "x1": 0.35,
+    "x2": 0.665625,
+    "y1": 0.155,
+    "y2": 0.521875
+   },
+   "mouth": {
+    "w": 0.11250000000000004,
+    "x": 0.530625,
+    "y": 0.44281250000000005,
+    "box": {
+     "x1": 0.474375,
+     "x2": 0.586875,
+     "y1": 0.420625,
+     "y2": 0.465
+    }
+   },
+   "person": {
+    "x1": 0.17625,
+    "x2": 0.8,
+    "y1": 0.06,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-003eccde-21a5-4485-ad07-e627636a159f-cutout.webp"
+  }
+ },
+ {
+  "id": "741e9dd5-7dda-4158-a854-be720c1a9512",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-741e9dd5-7dda-4158-a854-be720c1a9512.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.373125,
+    "x2": 0.593125,
+    "y1": 0.300625,
+    "y2": 0.34375
+   },
+   "face": {
+    "x1": 0.285625,
+    "x2": 0.645625,
+    "y1": 0.1625,
+    "y2": 0.55
+   },
+   "mouth": {
+    "w": 0.12,
+    "x": 0.475625,
+    "y": 0.455625,
+    "box": {
+     "x1": 0.415625,
+     "x2": 0.535625,
+     "y1": 0.440625,
+     "y2": 0.470625
+    }
+   },
+   "person": {
+    "x1": 0.15875,
+    "x2": 0.8875,
+    "y1": 0.05375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-741e9dd5-7dda-4158-a854-be720c1a9512-cutout.webp"
+  }
+ },
+ {
+  "id": "37b87b5c-9e8e-4bf5-8be0-a32696e49784",
+  "lookId": "3a92ae6d-4894-46fb-a956-43d3b6156e11",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "woman",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-37b87b5c-9e8e-4bf5-8be0-a32696e49784.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.383125,
+    "x2": 0.604375,
+    "y1": 0.299375,
+    "y2": 0.345625
+   },
+   "face": {
+    "x1": 0.311875,
+    "x2": 0.66875,
+    "y1": 0.16375,
+    "y2": 0.54125
+   },
+   "mouth": {
+    "w": 0.12999999999999995,
+    "x": 0.48875,
+    "y": 0.4596875,
+    "box": {
+     "x1": 0.42375,
+     "x2": 0.55375,
+     "y1": 0.4375,
+     "y2": 0.481875
+    }
+   },
+   "person": {
+    "x1": 0.17,
+    "x2": 0.916875,
+    "y1": 0.054375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-37b87b5c-9e8e-4bf5-8be0-a32696e49784-cutout.webp"
+  }
+ },
+ {
+  "id": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "base",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-535bfecd-54a9-472c-9170-d613199fd03e.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.376875,
+    "x2": 0.6225,
+    "y1": 0.29875,
+    "y2": 0.358125
+   },
+   "face": {
+    "x1": 0.335,
+    "x2": 0.661875,
+    "y1": 0.16125,
+    "y2": 0.56625
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.135,
+    "x": 0.499375,
+    "y": 0.475625,
+    "box": {
+     "x1": 0.431875,
+     "x2": 0.566875,
+     "y1": 0.4525,
+     "y2": 0.49875
+    }
+   },
+   "person": {
+    "x1": 0.138125,
+    "x2": 0.8625,
+    "y1": 0.060625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-535bfecd-54a9-472c-9170-d613199fd03e-cutout.webp"
+  }
+ },
+ {
+  "id": "e282dae1-4647-492b-bc84-592f1a533be7",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-e282dae1-4647-492b-bc84-592f1a533be7.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.375625,
+    "x2": 0.624375,
+    "y1": 0.336875,
+    "y2": 0.355
+   },
+   "face": {
+    "x1": 0.331875,
+    "x2": 0.663125,
+    "y1": 0.161875,
+    "y2": 0.565625
+   },
+   "mouth": {
+    "w": 0.13437500000000002,
+    "x": 0.4996875,
+    "y": 0.4753125,
+    "box": {
+     "x1": 0.4325,
+     "x2": 0.566875,
+     "y1": 0.451875,
+     "y2": 0.49875
+    }
+   },
+   "person": {
+    "x1": 0.138125,
+    "x2": 0.861875,
+    "y1": 0.06125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-e282dae1-4647-492b-bc84-592f1a533be7-cutout.webp"
+  }
+ },
+ {
+  "id": "db1f791e-5981-482c-a4d6-0649583f4e70",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-db1f791e-5981-482c-a4d6-0649583f4e70.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3625,
+    "x2": 0.628125,
+    "y1": 0.321875,
+    "y2": 0.416875
+   },
+   "face": {
+    "x1": 0.3125,
+    "x2": 0.665625,
+    "y1": 0.1825,
+    "y2": 0.631875
+   },
+   "mouth": {
+    "w": 0.133125,
+    "x": 0.5171875,
+    "y": 0.5378125,
+    "box": {
+     "x1": 0.450625,
+     "x2": 0.58375,
+     "y1": 0.51125,
+     "y2": 0.564375
+    }
+   },
+   "person": {
+    "x1": 0.10875,
+    "x2": 0.861875,
+    "y1": 0.073125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-db1f791e-5981-482c-a4d6-0649583f4e70-cutout.webp"
+  }
+ },
+ {
+  "id": "cd2429c2-dd1b-4551-82d8-e3529e10f7d1",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-cd2429c2-dd1b-4551-82d8-e3529e10f7d1.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3775,
+    "x2": 0.62125,
+    "y1": 0.29875,
+    "y2": 0.3575
+   },
+   "face": {
+    "x1": 0.3325,
+    "x2": 0.665,
+    "y1": 0.16125,
+    "y2": 0.568125
+   },
+   "mouth": {
+    "w": 0.13375000000000004,
+    "x": 0.49875,
+    "y": 0.469375,
+    "box": {
+     "x1": 0.431875,
+     "x2": 0.565625,
+     "y1": 0.45625,
+     "y2": 0.4825
+    }
+   },
+   "person": {
+    "x1": 0.138125,
+    "x2": 0.86125,
+    "y1": 0.06125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-cd2429c2-dd1b-4551-82d8-e3529e10f7d1-cutout.webp"
+  }
+ },
+ {
+  "id": "9ec7b82e-ab77-484d-ad04-3bcc321dc28f",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-9ec7b82e-ab77-484d-ad04-3bcc321dc28f.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37875,
+    "x2": 0.620625,
+    "y1": 0.286875,
+    "y2": 0.3575
+   },
+   "face": {
+    "x1": 0.3375,
+    "x2": 0.661875,
+    "y1": 0.158125,
+    "y2": 0.573125
+   },
+   "mouth": {
+    "w": 0.08250000000000002,
+    "x": 0.5,
+    "y": 0.485,
+    "box": {
+     "x1": 0.45875,
+     "x2": 0.54125,
+     "y1": 0.448125,
+     "y2": 0.521875
+    }
+   },
+   "person": {
+    "x1": 0.13625,
+    "x2": 0.8625,
+    "y1": 0.06375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-9ec7b82e-ab77-484d-ad04-3bcc321dc28f-cutout.webp"
+  }
+ },
+ {
+  "id": "597b3c9a-4fe6-4ac1-9186-cb22d9b1aafe",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-597b3c9a-4fe6-4ac1-9186-cb22d9b1aafe.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.36875,
+    "x2": 0.60375,
+    "y1": 0.27,
+    "y2": 0.360625
+   },
+   "face": {
+    "x1": 0.32125,
+    "x2": 0.643125,
+    "y1": 0.15125,
+    "y2": 0.545
+   },
+   "mouth": {
+    "w": 0.10249999999999998,
+    "x": 0.5175,
+    "y": 0.455625,
+    "box": {
+     "x1": 0.46625,
+     "x2": 0.56875,
+     "y1": 0.4325,
+     "y2": 0.47875
+    }
+   },
+   "person": {
+    "x1": 0.195,
+    "x2": 0.811875,
+    "y1": 0.06875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-597b3c9a-4fe6-4ac1-9186-cb22d9b1aafe-cutout.webp"
+  }
+ },
+ {
+  "id": "ee235f98-ef57-4697-a7bb-be5c3ee2b38e",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-ee235f98-ef57-4697-a7bb-be5c3ee2b38e.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.343125,
+    "x2": 0.584375,
+    "y1": 0.294375,
+    "y2": 0.363125
+   },
+   "face": {
+    "x1": 0.303125,
+    "x2": 0.623125,
+    "y1": 0.16125,
+    "y2": 0.571875
+   },
+   "mouth": {
+    "w": 0.15500000000000003,
+    "x": 0.473125,
+    "y": 0.47906250000000006,
+    "box": {
+     "x1": 0.395625,
+     "x2": 0.550625,
+     "y1": 0.445,
+     "y2": 0.513125
+    }
+   },
+   "person": {
+    "x1": 0.126875,
+    "x2": 0.91375,
+    "y1": 0.0625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ee235f98-ef57-4697-a7bb-be5c3ee2b38e-cutout.webp"
+  }
+ },
+ {
+  "id": "5da3b870-73ab-4fc4-8da1-cefd3d0bd6fa",
+  "lookId": "535bfecd-54a9-472c-9170-d613199fd03e",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "man",
+  "ageRange": "18-24",
+  "imageUrl": "/api/media/library-5da3b870-73ab-4fc4-8da1-cefd3d0bd6fa.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.40625,
+    "x2": 0.645625,
+    "y1": 0.300625,
+    "y2": 0.359375
+   },
+   "face": {
+    "x1": 0.36875,
+    "x2": 0.68125,
+    "y1": 0.165,
+    "y2": 0.565
+   },
+   "mouth": {
+    "w": 0.135625,
+    "x": 0.5253125000000001,
+    "y": 0.47468750000000004,
+    "box": {
+     "x1": 0.4575,
+     "x2": 0.593125,
+     "y1": 0.451875,
+     "y2": 0.4975
+    }
+   },
+   "person": {
+    "x1": 0.053125,
+    "x2": 0.86875,
+    "y1": 0.066875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-5da3b870-73ab-4fc4-8da1-cefd3d0bd6fa-cutout.webp"
+  }
+ },
+ {
+  "id": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "base",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-633b7336-1a73-4668-8cf5-9c13c60e74b9.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.381875,
+    "x2": 0.615625,
+    "y1": 0.37125,
+    "y2": 0.42
+   },
+   "face": {
+    "x1": 0.33125,
+    "x2": 0.6675,
+    "y1": 0.20125,
+    "y2": 0.68125
+   },
+   "look": "1",
+   "mouth": {
+    "w": 0.15250000000000002,
+    "x": 0.501875,
+    "y": 0.5671875,
+    "box": {
+     "x1": 0.425625,
+     "x2": 0.578125,
+     "y1": 0.5525,
+     "y2": 0.581875
+    }
+   },
+   "person": {
+    "x1": 0.158125,
+    "x2": 0.849375,
+    "y1": 0.065,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-633b7336-1a73-4668-8cf5-9c13c60e74b9-cutout.webp"
+  }
+ },
+ {
+  "id": "1e1484a6-6dbf-45ae-be48-67887ea14b92",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-1e1484a6-6dbf-45ae-be48-67887ea14b92.jpg",
+  "masks": {
+   "face": {
+    "x1": 0.331875,
+    "x2": 0.666875,
+    "y1": 0.200625,
+    "y2": 0.68
+   },
+   "mouth": {
+    "w": 0.14625,
+    "x": 0.500625,
+    "y": 0.5659375,
+    "box": {
+     "x1": 0.4275,
+     "x2": 0.57375,
+     "y1": 0.5525,
+     "y2": 0.579375
+    }
+   },
+   "person": {
+    "x1": 0.158125,
+    "x2": 0.84875,
+    "y1": 0.065625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-1e1484a6-6dbf-45ae-be48-67887ea14b92-cutout.webp"
+  }
+ },
+ {
+  "id": "fa899f5d-e0a8-4744-a8b6-c2672d73edc6",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-fa899f5d-e0a8-4744-a8b6-c2672d73edc6.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.365625,
+    "x2": 0.611875,
+    "y1": 0.385,
+    "y2": 0.45
+   },
+   "face": {
+    "x1": 0.315,
+    "x2": 0.6675,
+    "y1": 0.213125,
+    "y2": 0.723125
+   },
+   "mouth": {
+    "w": 0.16312499999999996,
+    "x": 0.4984375,
+    "y": 0.5996874999999999,
+    "box": {
+     "x1": 0.416875,
+     "x2": 0.58,
+     "y1": 0.580625,
+     "y2": 0.61875
+    }
+   },
+   "person": {
+    "x1": 0.155625,
+    "x2": 0.849375,
+    "y1": 0.073125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-fa899f5d-e0a8-4744-a8b6-c2672d73edc6-cutout.webp"
+  }
+ },
+ {
+  "id": "7618921c-3641-43b0-9fa6-9cc3b7337feb",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-7618921c-3641-43b0-9fa6-9cc3b7337feb.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38,
+    "x2": 0.6125,
+    "y1": 0.368125,
+    "y2": 0.418125
+   },
+   "face": {
+    "x1": 0.329375,
+    "x2": 0.66375,
+    "y1": 0.2,
+    "y2": 0.68375
+   },
+   "mouth": {
+    "w": 0.14437500000000003,
+    "x": 0.4996875,
+    "y": 0.559375,
+    "box": {
+     "x1": 0.4275,
+     "x2": 0.571875,
+     "y1": 0.545625,
+     "y2": 0.573125
+    }
+   },
+   "person": {
+    "x1": 0.15875,
+    "x2": 0.84875,
+    "y1": 0.06625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-7618921c-3641-43b0-9fa6-9cc3b7337feb-cutout.webp"
+  }
+ },
+ {
+  "id": "d426504a-a52d-40ba-9db5-32c82e1b615d",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-d426504a-a52d-40ba-9db5-32c82e1b615d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38125,
+    "x2": 0.615625,
+    "y1": 0.3525,
+    "y2": 0.416875
+   },
+   "face": {
+    "x1": 0.331875,
+    "x2": 0.665625,
+    "y1": 0.196875,
+    "y2": 0.69875
+   },
+   "mouth": {
+    "w": 0.07,
+    "x": 0.501875,
+    "y": 0.58125,
+    "box": {
+     "x1": 0.466875,
+     "x2": 0.536875,
+     "y1": 0.565625,
+     "y2": 0.596875
+    }
+   },
+   "person": {
+    "x1": 0.159375,
+    "x2": 0.84625,
+    "y1": 0.064375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d426504a-a52d-40ba-9db5-32c82e1b615d-cutout.webp"
+  }
+ },
+ {
+  "id": "2c5f0256-d69e-4125-bf2f-db01ce0cc6a6",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-2c5f0256-d69e-4125-bf2f-db01ce0cc6a6.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385,
+    "x2": 0.618125,
+    "y1": 0.3525,
+    "y2": 0.420625
+   },
+   "face": {
+    "x1": 0.324375,
+    "x2": 0.6625,
+    "y1": 0.198125,
+    "y2": 0.6825
+   },
+   "mouth": {
+    "w": 0.14,
+    "x": 0.524375,
+    "y": 0.563125,
+    "box": {
+     "x1": 0.454375,
+     "x2": 0.594375,
+     "y1": 0.54875,
+     "y2": 0.5775
+    }
+   },
+   "person": {
+    "x1": 0.159375,
+    "x2": 0.84625,
+    "y1": 0.069375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-2c5f0256-d69e-4125-bf2f-db01ce0cc6a6-cutout.webp"
+  }
+ },
+ {
+  "id": "499305e7-69fb-4445-af8d-2a321beee20a",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-499305e7-69fb-4445-af8d-2a321beee20a.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.366875,
+    "x2": 0.59375,
+    "y1": 0.3625,
+    "y2": 0.41375
+   },
+   "face": {
+    "x1": 0.3125,
+    "x2": 0.64,
+    "y1": 0.199375,
+    "y2": 0.676875
+   },
+   "mouth": {
+    "w": 0.14437500000000003,
+    "x": 0.48281250000000003,
+    "y": 0.5549999999999999,
+    "box": {
+     "x1": 0.410625,
+     "x2": 0.555,
+     "y1": 0.53875,
+     "y2": 0.57125
+    }
+   },
+   "person": {
+    "x1": 0.15,
+    "x2": 0.91375,
+    "y1": 0.0675,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-499305e7-69fb-4445-af8d-2a321beee20a-cutout.webp"
+  }
+ },
+ {
+  "id": "bdb4c432-f2f3-4bf2-b1ae-107683ccee01",
+  "lookId": "633b7336-1a73-4668-8cf5-9c13c60e74b9",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "man",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-bdb4c432-f2f3-4bf2-b1ae-107683ccee01.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.381875,
+    "x2": 0.61375,
+    "y1": 0.370625,
+    "y2": 0.420625
+   },
+   "face": {
+    "x1": 0.3325,
+    "x2": 0.665,
+    "y1": 0.203125,
+    "y2": 0.68
+   },
+   "mouth": {
+    "w": 0.153125,
+    "x": 0.5015625,
+    "y": 0.563125,
+    "box": {
+     "x1": 0.425,
+     "x2": 0.578125,
+     "y1": 0.54625,
+     "y2": 0.58
+    }
+   },
+   "person": {
+    "x1": 0,
+    "x2": 0.8475,
+    "y1": 0.06875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-bdb4c432-f2f3-4bf2-b1ae-107683ccee01-cutout.webp"
+  }
+ },
+ {
+  "id": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "base",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-7d04b8d2-c112-4452-a5a6-2637c34e2718.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.381875,
+    "x2": 0.6175,
+    "y1": 0.3025,
+    "y2": 0.35125
+   },
+   "face": {
+    "x1": 0.315625,
+    "x2": 0.690625,
+    "y1": 0.1625,
+    "y2": 0.548125
+   },
+   "look": "3",
+   "mouth": {
+    "w": 0.11499999999999999,
+    "x": 0.50125,
+    "y": 0.4709375,
+    "box": {
+     "x1": 0.44375,
+     "x2": 0.55875,
+     "y1": 0.455625,
+     "y2": 0.48625
+    }
+   },
+   "person": {
+    "x1": 0.175625,
+    "x2": 0.82375,
+    "y1": 0.05,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-7d04b8d2-c112-4452-a5a6-2637c34e2718-cutout.webp"
+  }
+ },
+ {
+  "id": "2d668fc9-3984-42bb-8685-7b187d259695",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-2d668fc9-3984-42bb-8685-7b187d259695.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385,
+    "x2": 0.62,
+    "y1": 0.33375,
+    "y2": 0.355625
+   },
+   "face": {
+    "x1": 0.315625,
+    "x2": 0.69,
+    "y1": 0.1625,
+    "y2": 0.5475
+   },
+   "mouth": {
+    "w": 0.111875,
+    "x": 0.5003125,
+    "y": 0.4703125,
+    "box": {
+     "x1": 0.444375,
+     "x2": 0.55625,
+     "y1": 0.455,
+     "y2": 0.485625
+    }
+   },
+   "person": {
+    "x1": 0.17625,
+    "x2": 0.823125,
+    "y1": 0.04875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-2d668fc9-3984-42bb-8685-7b187d259695-cutout.webp"
+  }
+ },
+ {
+  "id": "89b2ebc6-4caf-4fdc-b54c-506bbd434fc5",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-89b2ebc6-4caf-4fdc-b54c-506bbd434fc5.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37125,
+    "x2": 0.623125,
+    "y1": 0.33375,
+    "y2": 0.398125
+   },
+   "face": {
+    "x1": 0.329375,
+    "x2": 0.67625,
+    "y1": 0.18875,
+    "y2": 0.60625
+   },
+   "mouth": {
+    "w": 0.11687499999999995,
+    "x": 0.5009375,
+    "y": 0.526875,
+    "box": {
+     "x1": 0.4425,
+     "x2": 0.559375,
+     "y1": 0.510625,
+     "y2": 0.543125
+    }
+   },
+   "person": {
+    "x1": 0.200625,
+    "x2": 0.796875,
+    "y1": 0.06125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-89b2ebc6-4caf-4fdc-b54c-506bbd434fc5-cutout.webp"
+  }
+ },
+ {
+  "id": "8bb31ee4-bb79-4294-a3e7-456b57643897",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-8bb31ee4-bb79-4294-a3e7-456b57643897.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38125,
+    "x2": 0.61375,
+    "y1": 0.30125,
+    "y2": 0.349375
+   },
+   "face": {
+    "x1": 0.315625,
+    "x2": 0.69,
+    "y1": 0.1625,
+    "y2": 0.550625
+   },
+   "mouth": {
+    "w": 0.10999999999999999,
+    "x": 0.503125,
+    "y": 0.4621875,
+    "box": {
+     "x1": 0.448125,
+     "x2": 0.558125,
+     "y1": 0.451875,
+     "y2": 0.4725
+    }
+   },
+   "person": {
+    "x1": 0.176875,
+    "x2": 0.823125,
+    "y1": 0.05125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-8bb31ee4-bb79-4294-a3e7-456b57643897-cutout.webp"
+  }
+ },
+ {
+  "id": "86b4ceb0-8d48-4b35-8dd0-4f08649ac7d0",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-86b4ceb0-8d48-4b35-8dd0-4f08649ac7d0.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.619375,
+    "y1": 0.28875,
+    "y2": 0.353125
+   },
+   "face": {
+    "x1": 0.314375,
+    "x2": 0.686875,
+    "y1": 0.16,
+    "y2": 0.56125
+   },
+   "mouth": {
+    "w": 0.05937500000000001,
+    "x": 0.5015625,
+    "y": 0.4784375,
+    "box": {
+     "x1": 0.471875,
+     "x2": 0.53125,
+     "y1": 0.465625,
+     "y2": 0.49125
+    }
+   },
+   "person": {
+    "x1": 0.1775,
+    "x2": 0.82,
+    "y1": 0.050625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-86b4ceb0-8d48-4b35-8dd0-4f08649ac7d0-cutout.webp"
+  }
+ },
+ {
+  "id": "b69f8b37-feaa-4d64-a514-342b7919b65c",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-b69f8b37-feaa-4d64-a514-342b7919b65c.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38625,
+    "x2": 0.608125,
+    "y1": 0.2775,
+    "y2": 0.351875
+   },
+   "face": {
+    "x1": 0.34,
+    "x2": 0.66,
+    "y1": 0.153125,
+    "y2": 0.53375
+   },
+   "mouth": {
+    "w": 0.10250000000000004,
+    "x": 0.520625,
+    "y": 0.455625,
+    "box": {
+     "x1": 0.469375,
+     "x2": 0.571875,
+     "y1": 0.439375,
+     "y2": 0.471875
+    }
+   },
+   "person": {
+    "x1": 0.205,
+    "x2": 0.8225,
+    "y1": 0.055625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-b69f8b37-feaa-4d64-a514-342b7919b65c-cutout.webp"
+  }
+ },
+ {
+  "id": "87ee1b32-77cb-4c0d-b525-90a5ff75a4e2",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-87ee1b32-77cb-4c0d-b525-90a5ff75a4e2.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.349375,
+    "x2": 0.580625,
+    "y1": 0.29875,
+    "y2": 0.359375
+   },
+   "face": {
+    "x1": 0.30625,
+    "x2": 0.638125,
+    "y1": 0.16125,
+    "y2": 0.555
+   },
+   "mouth": {
+    "w": 0.11375000000000002,
+    "x": 0.478125,
+    "y": 0.4640625,
+    "box": {
+     "x1": 0.42125,
+     "x2": 0.535,
+     "y1": 0.44875,
+     "y2": 0.479375
+    }
+   },
+   "person": {
+    "x1": 0.156875,
+    "x2": 0.900625,
+    "y1": 0.051875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-87ee1b32-77cb-4c0d-b525-90a5ff75a4e2-cutout.webp"
+  }
+ },
+ {
+  "id": "50bda7ac-e019-433c-a312-71c26978b059",
+  "lookId": "7d04b8d2-c112-4452-a5a6-2637c34e2718",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "woman",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-50bda7ac-e019-433c-a312-71c26978b059.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3625,
+    "x2": 0.5925,
+    "y1": 0.3025,
+    "y2": 0.35125
+   },
+   "face": {
+    "x1": 0.2925,
+    "x2": 0.645,
+    "y1": 0.165,
+    "y2": 0.5475
+   },
+   "mouth": {
+    "w": 0.11687499999999995,
+    "x": 0.4746875,
+    "y": 0.469375,
+    "box": {
+     "x1": 0.41625,
+     "x2": 0.533125,
+     "y1": 0.454375,
+     "y2": 0.484375
+    }
+   },
+   "person": {
+    "x1": 0.16375,
+    "x2": 0.92,
+    "y1": 0.051875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-50bda7ac-e019-433c-a312-71c26978b059-cutout.webp"
+  }
+ },
+ {
+  "id": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "base",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-7d6e62ac-c408-4cb1-9075-ebd640e3762d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.388125,
+    "x2": 0.61125,
+    "y1": 0.27875,
+    "y2": 0.321875
+   },
+   "face": {
+    "x1": 0.313125,
+    "x2": 0.69,
+    "y1": 0.131875,
+    "y2": 0.5275
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.12749999999999995,
+    "x": 0.500625,
+    "y": 0.44375,
+    "box": {
+     "x1": 0.436875,
+     "x2": 0.564375,
+     "y1": 0.423125,
+     "y2": 0.464375
+    }
+   },
+   "person": {
+    "x1": 0.153125,
+    "x2": 0.845625,
+    "y1": 0.038125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-7d6e62ac-c408-4cb1-9075-ebd640e3762d-cutout.webp"
+  }
+ },
+ {
+  "id": "3ddd1644-9af0-47df-8d93-96d6ab9f282a",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-3ddd1644-9af0-47df-8d93-96d6ab9f282a.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.386875,
+    "x2": 0.610625,
+    "y1": 0.308125,
+    "y2": 0.324375
+   },
+   "face": {
+    "x1": 0.309375,
+    "x2": 0.693125,
+    "y1": 0.13125,
+    "y2": 0.526875
+   },
+   "mouth": {
+    "w": 0.12624999999999997,
+    "x": 0.5,
+    "y": 0.44125000000000003,
+    "box": {
+     "x1": 0.436875,
+     "x2": 0.563125,
+     "y1": 0.42125,
+     "y2": 0.46125
+    }
+   },
+   "person": {
+    "x1": 0.15375,
+    "x2": 0.845,
+    "y1": 0.03625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-3ddd1644-9af0-47df-8d93-96d6ab9f282a-cutout.webp"
+  }
+ },
+ {
+  "id": "35013237-1356-4447-a8d5-5a408dff2cf7",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-35013237-1356-4447-a8d5-5a408dff2cf7.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3775,
+    "x2": 0.616875,
+    "y1": 0.305,
+    "y2": 0.364375
+   },
+   "face": {
+    "x1": 0.32625,
+    "x2": 0.6675,
+    "y1": 0.153125,
+    "y2": 0.625
+   },
+   "mouth": {
+    "w": 0.13937500000000003,
+    "x": 0.5015625,
+    "y": 0.49750000000000005,
+    "box": {
+     "x1": 0.431875,
+     "x2": 0.57125,
+     "y1": 0.47625,
+     "y2": 0.51875
+    }
+   },
+   "person": {
+    "x1": 0.21625,
+    "x2": 0.778125,
+    "y1": 0.04625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-35013237-1356-4447-a8d5-5a408dff2cf7-cutout.webp"
+  }
+ },
+ {
+  "id": "740b218b-24c9-41bc-8d60-d9213fd76e04",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-740b218b-24c9-41bc-8d60-d9213fd76e04.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.388125,
+    "x2": 0.61,
+    "y1": 0.276875,
+    "y2": 0.319375
+   },
+   "face": {
+    "x1": 0.316875,
+    "x2": 0.693125,
+    "y1": 0.130625,
+    "y2": 0.52875
+   },
+   "mouth": {
+    "w": 0.13937499999999997,
+    "x": 0.4984375,
+    "y": 0.4425,
+    "box": {
+     "x1": 0.42875,
+     "x2": 0.568125,
+     "y1": 0.4175,
+     "y2": 0.4675
+    }
+   },
+   "person": {
+    "x1": 0.15375,
+    "x2": 0.845,
+    "y1": 0.036875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-740b218b-24c9-41bc-8d60-d9213fd76e04-cutout.webp"
+  }
+ },
+ {
+  "id": "58eb73c5-5a7b-4127-91ab-6169dd427682",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-58eb73c5-5a7b-4127-91ab-6169dd427682.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.390625,
+    "x2": 0.608125,
+    "y1": 0.261875,
+    "y2": 0.315625
+   },
+   "face": {
+    "x1": 0.31,
+    "x2": 0.69,
+    "y1": 0.12625,
+    "y2": 0.538125
+   },
+   "mouth": {
+    "w": 0.07250000000000001,
+    "x": 0.499375,
+    "y": 0.4484375,
+    "box": {
+     "x1": 0.463125,
+     "x2": 0.535625,
+     "y1": 0.435625,
+     "y2": 0.46125
+    }
+   },
+   "person": {
+    "x1": 0.165625,
+    "x2": 0.830625,
+    "y1": 0.038125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-58eb73c5-5a7b-4127-91ab-6169dd427682-cutout.webp"
+  }
+ },
+ {
+  "id": "776b3b7a-9b36-4fae-8354-f0f751b1f64d",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-776b3b7a-9b36-4fae-8354-f0f751b1f64d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.380625,
+    "x2": 0.598125,
+    "y1": 0.2575,
+    "y2": 0.330625
+   },
+   "face": {
+    "x1": 0.326875,
+    "x2": 0.651875,
+    "y1": 0.125,
+    "y2": 0.525
+   },
+   "mouth": {
+    "w": 0.12312499999999998,
+    "x": 0.5184375,
+    "y": 0.43343750000000003,
+    "box": {
+     "x1": 0.456875,
+     "x2": 0.58,
+     "y1": 0.41625,
+     "y2": 0.450625
+    }
+   },
+   "person": {
+    "x1": 0.185625,
+    "x2": 0.835625,
+    "y1": 0.045625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-776b3b7a-9b36-4fae-8354-f0f751b1f64d-cutout.webp"
+  }
+ },
+ {
+  "id": "2473fa10-77c3-4285-980f-2a4925a94a0c",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-2473fa10-77c3-4285-980f-2a4925a94a0c.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37875,
+    "x2": 0.596875,
+    "y1": 0.2725,
+    "y2": 0.32625
+   },
+   "face": {
+    "x1": 0.29625,
+    "x2": 0.68,
+    "y1": 0.13125,
+    "y2": 0.534375
+   },
+   "mouth": {
+    "w": 0.13124999999999992,
+    "x": 0.499375,
+    "y": 0.43374999999999997,
+    "box": {
+     "x1": 0.43375,
+     "x2": 0.565,
+     "y1": 0.41375,
+     "y2": 0.45375
+    }
+   },
+   "person": {
+    "x1": 0.13375,
+    "x2": 0.841875,
+    "y1": 0.041875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-2473fa10-77c3-4285-980f-2a4925a94a0c-cutout.webp"
+  }
+ },
+ {
+  "id": "3a533ef3-f721-4499-b093-835a7bad52e6",
+  "lookId": "7d6e62ac-c408-4cb1-9075-ebd640e3762d",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "unspecified",
+  "ageRange": "55-64",
+  "imageUrl": "/api/media/library-3a533ef3-f721-4499-b093-835a7bad52e6.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.401875,
+    "x2": 0.621875,
+    "y1": 0.275625,
+    "y2": 0.323125
+   },
+   "face": {
+    "x1": 0.35125,
+    "x2": 0.66875,
+    "y1": 0.1325,
+    "y2": 0.526875
+   },
+   "mouth": {
+    "w": 0.12875000000000003,
+    "x": 0.5081249999999999,
+    "y": 0.4409375,
+    "box": {
+     "x1": 0.44375,
+     "x2": 0.5725,
+     "y1": 0.420625,
+     "y2": 0.46125
+    }
+   },
+   "person": {
+    "x1": 0.093125,
+    "x2": 0.841875,
+    "y1": 0.04,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-3a533ef3-f721-4499-b093-835a7bad52e6-cutout.webp"
+  }
+ },
+ {
+  "id": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "base",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-943a5a0a-439a-4610-b743-fe9da4e169c2.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.613125,
+    "y1": 0.305625,
+    "y2": 0.35125
+   },
+   "face": {
+    "x1": 0.33,
+    "x2": 0.66875,
+    "y1": 0.1475,
+    "y2": 0.595625
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.15499999999999997,
+    "x": 0.50125,
+    "y": 0.491875,
+    "box": {
+     "x1": 0.42375,
+     "x2": 0.57875,
+     "y1": 0.46875,
+     "y2": 0.515
+    }
+   },
+   "person": {
+    "x1": 0.1275,
+    "x2": 0.875625,
+    "y1": 0.08125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-943a5a0a-439a-4610-b743-fe9da4e169c2-cutout.webp"
+  }
+ },
+ {
+  "id": "8a06d5f5-09c3-4901-b182-8bfbdbdb5a55",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-8a06d5f5-09c3-4901-b182-8bfbdbdb5a55.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.36625,
+    "x2": 0.621875,
+    "y1": 0.2925,
+    "y2": 0.364375
+   },
+   "face": {
+    "x1": 0.329375,
+    "x2": 0.669375,
+    "y1": 0.146875,
+    "y2": 0.594375
+   },
+   "mouth": {
+    "w": 0.15562499999999996,
+    "x": 0.5015625,
+    "y": 0.4915625,
+    "box": {
+     "x1": 0.42375,
+     "x2": 0.579375,
+     "y1": 0.46875,
+     "y2": 0.514375
+    }
+   },
+   "person": {
+    "x1": 0.1275,
+    "x2": 0.875,
+    "y1": 0.08125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-8a06d5f5-09c3-4901-b182-8bfbdbdb5a55-cutout.webp"
+  }
+ },
+ {
+  "id": "a0c155e7-6a96-46bc-baa2-1ff5f0364fd4",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-a0c155e7-6a96-46bc-baa2-1ff5f0364fd4.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.368125,
+    "x2": 0.61125,
+    "y1": 0.320625,
+    "y2": 0.385
+   },
+   "face": {
+    "x1": 0.31375,
+    "x2": 0.669375,
+    "y1": 0.1575,
+    "y2": 0.661875
+   },
+   "mouth": {
+    "w": 0.16874999999999996,
+    "x": 0.500625,
+    "y": 0.53375,
+    "box": {
+     "x1": 0.41625,
+     "x2": 0.585,
+     "y1": 0.508125,
+     "y2": 0.559375
+    }
+   },
+   "person": {
+    "x1": 0.185625,
+    "x2": 0.808125,
+    "y1": 0.08375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-a0c155e7-6a96-46bc-baa2-1ff5f0364fd4-cutout.webp"
+  }
+ },
+ {
+  "id": "3da82d7e-1f23-4107-96c5-96b8655ef055",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-3da82d7e-1f23-4107-96c5-96b8655ef055.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.61125,
+    "y1": 0.305,
+    "y2": 0.34875
+   },
+   "face": {
+    "x1": 0.328125,
+    "x2": 0.67,
+    "y1": 0.146875,
+    "y2": 0.595625
+   },
+   "mouth": {
+    "w": 0.16562499999999997,
+    "x": 0.5021875,
+    "y": 0.4903125,
+    "box": {
+     "x1": 0.419375,
+     "x2": 0.585,
+     "y1": 0.4625,
+     "y2": 0.518125
+    }
+   },
+   "person": {
+    "x1": 0.12875,
+    "x2": 0.874375,
+    "y1": 0.08125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-3da82d7e-1f23-4107-96c5-96b8655ef055-cutout.webp"
+  }
+ },
+ {
+  "id": "c2352a8a-e9ee-4e12-a21e-e47dfc398a34",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-c2352a8a-e9ee-4e12-a21e-e47dfc398a34.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38625,
+    "x2": 0.61,
+    "y1": 0.28875,
+    "y2": 0.3475
+   },
+   "face": {
+    "x1": 0.33125,
+    "x2": 0.661875,
+    "y1": 0.145,
+    "y2": 0.61
+   },
+   "mouth": {
+    "w": 0.083125,
+    "x": 0.4996875,
+    "y": 0.5009375,
+    "box": {
+     "x1": 0.458125,
+     "x2": 0.54125,
+     "y1": 0.48375,
+     "y2": 0.518125
+    }
+   },
+   "person": {
+    "x1": 0.13,
+    "x2": 0.87125,
+    "y1": 0.0825,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-c2352a8a-e9ee-4e12-a21e-e47dfc398a34-cutout.webp"
+  }
+ },
+ {
+  "id": "58294212-1c41-4140-814e-2e7e6f2dfb4f",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-58294212-1c41-4140-814e-2e7e6f2dfb4f.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.393125,
+    "x2": 0.614375,
+    "y1": 0.27625,
+    "y2": 0.35375
+   },
+   "face": {
+    "x1": 0.3325,
+    "x2": 0.66625,
+    "y1": 0.13875,
+    "y2": 0.575
+   },
+   "mouth": {
+    "w": 0.14749999999999996,
+    "x": 0.531875,
+    "y": 0.47781250000000003,
+    "box": {
+     "x1": 0.458125,
+     "x2": 0.605625,
+     "y1": 0.4525,
+     "y2": 0.503125
+    }
+   },
+   "person": {
+    "x1": 0.131875,
+    "x2": 0.87125,
+    "y1": 0.085625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-58294212-1c41-4140-814e-2e7e6f2dfb4f-cutout.webp"
+  }
+ },
+ {
+  "id": "0346a113-5906-452a-91b1-b276fa1fb18d",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-0346a113-5906-452a-91b1-b276fa1fb18d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3775,
+    "x2": 0.599375,
+    "y1": 0.3025,
+    "y2": 0.350625
+   },
+   "face": {
+    "x1": 0.32125,
+    "x2": 0.644375,
+    "y1": 0.145625,
+    "y2": 0.59625
+   },
+   "mouth": {
+    "w": 0.13249999999999995,
+    "x": 0.48312499999999997,
+    "y": 0.48187500000000005,
+    "box": {
+     "x1": 0.416875,
+     "x2": 0.549375,
+     "y1": 0.465,
+     "y2": 0.49875
+    }
+   },
+   "person": {
+    "x1": 0.110625,
+    "x2": 0.91625,
+    "y1": 0.083125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-0346a113-5906-452a-91b1-b276fa1fb18d-cutout.webp"
+  }
+ },
+ {
+  "id": "644930d5-c6f9-42aa-b58e-94950b158dcc",
+  "lookId": "943a5a0a-439a-4610-b743-fe9da4e169c2",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "man",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-644930d5-c6f9-42aa-b58e-94950b158dcc.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.339375,
+    "x2": 0.561875,
+    "y1": 0.300625,
+    "y2": 0.356875
+   },
+   "face": {
+    "x1": 0.284375,
+    "x2": 0.61625,
+    "y1": 0.14625,
+    "y2": 0.594375
+   },
+   "mouth": {
+    "w": 0.155625,
+    "x": 0.4634375,
+    "y": 0.4896875,
+    "box": {
+     "x1": 0.385625,
+     "x2": 0.54125,
+     "y1": 0.464375,
+     "y2": 0.515
+    }
+   },
+   "person": {
+    "x1": 0.123125,
+    "x2": 0.925,
+    "y1": 0.084375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-644930d5-c6f9-42aa-b58e-94950b158dcc-cutout.webp"
+  }
+ },
+ {
+  "id": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "base",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-972a91d0-9421-4adf-bdd4-f8ab03e05539.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.36875,
+    "x2": 0.631875,
+    "y1": 0.2975,
+    "y2": 0.351875
+   },
+   "face": {
+    "x1": 0.304375,
+    "x2": 0.696875,
+    "y1": 0.155,
+    "y2": 0.541875
+   },
+   "look": "3",
+   "mouth": {
+    "w": 0.11062500000000003,
+    "x": 0.49968750000000006,
+    "y": 0.4675,
+    "box": {
+     "x1": 0.444375,
+     "x2": 0.555,
+     "y1": 0.45125,
+     "y2": 0.48375
+    }
+   },
+   "person": {
+    "x1": 0.17875,
+    "x2": 0.82,
+    "y1": 0.043125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-972a91d0-9421-4adf-bdd4-f8ab03e05539-cutout.webp"
+  }
+ },
+ {
+  "id": "bbdca4a7-fd8b-46c3-944c-df3662caa073",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-bbdca4a7-fd8b-46c3-944c-df3662caa073.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37375,
+    "x2": 0.6275,
+    "y1": 0.331875,
+    "y2": 0.353125
+   },
+   "face": {
+    "x1": 0.306875,
+    "x2": 0.696875,
+    "y1": 0.154375,
+    "y2": 0.54125
+   },
+   "mouth": {
+    "w": 0.106875,
+    "x": 0.49968749999999995,
+    "y": 0.46687500000000004,
+    "box": {
+     "x1": 0.44625,
+     "x2": 0.553125,
+     "y1": 0.450625,
+     "y2": 0.483125
+    }
+   },
+   "person": {
+    "x1": 0.17875,
+    "x2": 0.82,
+    "y1": 0.043125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-bbdca4a7-fd8b-46c3-944c-df3662caa073-cutout.webp"
+  }
+ },
+ {
+  "id": "47fe05af-c163-4f09-a3ba-df5f3abcda85",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-47fe05af-c163-4f09-a3ba-df5f3abcda85.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.36625,
+    "x2": 0.639375,
+    "y1": 0.31625,
+    "y2": 0.380625
+   },
+   "face": {
+    "x1": 0.33625,
+    "x2": 0.6675,
+    "y1": 0.1725,
+    "y2": 0.580625
+   },
+   "mouth": {
+    "w": 0.10750000000000004,
+    "x": 0.50125,
+    "y": 0.5046875,
+    "box": {
+     "x1": 0.4475,
+     "x2": 0.555,
+     "y1": 0.486875,
+     "y2": 0.5225
+    }
+   },
+   "person": {
+    "x1": 0.188125,
+    "x2": 0.80625,
+    "y1": 0.053125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-47fe05af-c163-4f09-a3ba-df5f3abcda85-cutout.webp"
+  }
+ },
+ {
+  "id": "0321d832-2386-401a-afb1-2b5baa202d45",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-0321d832-2386-401a-afb1-2b5baa202d45.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37,
+    "x2": 0.631875,
+    "y1": 0.296875,
+    "y2": 0.350625
+   },
+   "face": {
+    "x1": 0.305625,
+    "x2": 0.6975,
+    "y1": 0.154375,
+    "y2": 0.5425
+   },
+   "mouth": {
+    "w": 0.11000000000000004,
+    "x": 0.50125,
+    "y": 0.458125,
+    "box": {
+     "x1": 0.44625,
+     "x2": 0.55625,
+     "y1": 0.448125,
+     "y2": 0.468125
+    }
+   },
+   "person": {
+    "x1": 0.17875,
+    "x2": 0.81875,
+    "y1": 0.043125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-0321d832-2386-401a-afb1-2b5baa202d45-cutout.webp"
+  }
+ },
+ {
+  "id": "aff794f8-e2de-402b-839c-032f6b36a925",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-aff794f8-e2de-402b-839c-032f6b36a925.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.369375,
+    "x2": 0.6275,
+    "y1": 0.284375,
+    "y2": 0.35125
+   },
+   "face": {
+    "x1": 0.30625,
+    "x2": 0.686875,
+    "y1": 0.15125,
+    "y2": 0.553125
+   },
+   "mouth": {
+    "w": 0.07000000000000006,
+    "x": 0.499375,
+    "y": 0.4703125,
+    "box": {
+     "x1": 0.464375,
+     "x2": 0.534375,
+     "y1": 0.45875,
+     "y2": 0.481875
+    }
+   },
+   "person": {
+    "x1": 0.1775,
+    "x2": 0.81625,
+    "y1": 0.045625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-aff794f8-e2de-402b-839c-032f6b36a925-cutout.webp"
+  }
+ },
+ {
+  "id": "f0eefdff-5e0e-468d-9143-fc6b1e80eda4",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-f0eefdff-5e0e-468d-9143-fc6b1e80eda4.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3725,
+    "x2": 0.625,
+    "y1": 0.275,
+    "y2": 0.35625
+   },
+   "face": {
+    "x1": 0.33,
+    "x2": 0.665,
+    "y1": 0.148125,
+    "y2": 0.52875
+   },
+   "mouth": {
+    "w": 0.09062500000000001,
+    "x": 0.5259375000000001,
+    "y": 0.454375,
+    "box": {
+     "x1": 0.480625,
+     "x2": 0.57125,
+     "y1": 0.44125,
+     "y2": 0.4675
+    }
+   },
+   "person": {
+    "x1": 0.1925,
+    "x2": 0.805,
+    "y1": 0.04875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-f0eefdff-5e0e-468d-9143-fc6b1e80eda4-cutout.webp"
+  }
+ },
+ {
+  "id": "4fca298c-fcc9-44d8-ab13-2cee6e27f6c3",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-4fca298c-fcc9-44d8-ab13-2cee6e27f6c3.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.369375,
+    "x2": 0.63,
+    "y1": 0.289375,
+    "y2": 0.355
+   },
+   "face": {
+    "x1": 0.303125,
+    "x2": 0.689375,
+    "y1": 0.15625,
+    "y2": 0.5425
+   },
+   "mouth": {
+    "w": 0.10812500000000003,
+    "x": 0.4921875,
+    "y": 0.45687500000000003,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.54625,
+     "y1": 0.445,
+     "y2": 0.46875
+    }
+   },
+   "person": {
+    "x1": 0.168125,
+    "x2": 0.876875,
+    "y1": 0.045,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-4fca298c-fcc9-44d8-ab13-2cee6e27f6c3-cutout.webp"
+  }
+ },
+ {
+  "id": "38efa547-121d-4eb6-932a-cb4f9f24676c",
+  "lookId": "972a91d0-9421-4adf-bdd4-f8ab03e05539",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "woman",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-38efa547-121d-4eb6-932a-cb4f9f24676c.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3425,
+    "x2": 0.59875,
+    "y1": 0.290625,
+    "y2": 0.35625
+   },
+   "face": {
+    "x1": 0.315625,
+    "x2": 0.625,
+    "y1": 0.155625,
+    "y2": 0.539375
+   },
+   "mouth": {
+    "w": 0.11249999999999993,
+    "x": 0.4775,
+    "y": 0.46375,
+    "box": {
+     "x1": 0.42125,
+     "x2": 0.53375,
+     "y1": 0.44625,
+     "y2": 0.48125
+    }
+   },
+   "person": {
+    "x1": 0.176875,
+    "x2": 0.958125,
+    "y1": 0.046875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-38efa547-121d-4eb6-932a-cb4f9f24676c-cutout.webp"
+  }
+ },
+ {
+  "id": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "base",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-a3c02825-1474-4331-abb8-ffad7558e993.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.4,
+    "x2": 0.596875,
+    "y1": 0.290625,
+    "y2": 0.324375
+   },
+   "face": {
+    "x1": 0.355625,
+    "x2": 0.641875,
+    "y1": 0.1475,
+    "y2": 0.52875
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.12437500000000001,
+    "x": 0.5003124999999999,
+    "y": 0.4446875,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.5625,
+     "y1": 0.425,
+     "y2": 0.464375
+    }
+   },
+   "person": {
+    "x1": 0.14375,
+    "x2": 0.8575,
+    "y1": 0.060625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-a3c02825-1474-4331-abb8-ffad7558e993-cutout.webp"
+  }
+ },
+ {
+  "id": "ea02ea7f-54b4-4387-9aa9-f64de84b9950",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-ea02ea7f-54b4-4387-9aa9-f64de84b9950.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39625,
+    "x2": 0.59875,
+    "y1": 0.3125,
+    "y2": 0.32875
+   },
+   "face": {
+    "x1": 0.354375,
+    "x2": 0.644375,
+    "y1": 0.148125,
+    "y2": 0.5275
+   },
+   "mouth": {
+    "w": 0.12375000000000003,
+    "x": 0.499375,
+    "y": 0.443125,
+    "box": {
+     "x1": 0.4375,
+     "x2": 0.56125,
+     "y1": 0.424375,
+     "y2": 0.461875
+    }
+   },
+   "person": {
+    "x1": 0.144375,
+    "x2": 0.85625,
+    "y1": 0.059375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ea02ea7f-54b4-4387-9aa9-f64de84b9950-cutout.webp"
+  }
+ },
+ {
+  "id": "309ae8ec-0572-4b05-8fab-d47478bee620",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-309ae8ec-0572-4b05-8fab-d47478bee620.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38375,
+    "x2": 0.59875,
+    "y1": 0.315625,
+    "y2": 0.3675
+   },
+   "face": {
+    "x1": 0.33125,
+    "x2": 0.6725,
+    "y1": 0.1675,
+    "y2": 0.616875
+   },
+   "mouth": {
+    "w": 0.13437499999999997,
+    "x": 0.5009375,
+    "y": 0.49812500000000004,
+    "box": {
+     "x1": 0.43375,
+     "x2": 0.568125,
+     "y1": 0.476875,
+     "y2": 0.519375
+    }
+   },
+   "person": {
+    "x1": 0.2025,
+    "x2": 0.79375,
+    "y1": 0.070625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-309ae8ec-0572-4b05-8fab-d47478bee620-cutout.webp"
+  }
+ },
+ {
+  "id": "b0ef9514-66c0-47f3-94bc-a3f2110d70a1",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-b0ef9514-66c0-47f3-94bc-a3f2110d70a1.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.40125,
+    "x2": 0.595,
+    "y1": 0.29125,
+    "y2": 0.320625
+   },
+   "face": {
+    "x1": 0.355,
+    "x2": 0.661875,
+    "y1": 0.1475,
+    "y2": 0.529375
+   },
+   "mouth": {
+    "w": 0.12749999999999995,
+    "x": 0.50125,
+    "y": 0.4440625,
+    "box": {
+     "x1": 0.4375,
+     "x2": 0.565,
+     "y1": 0.421875,
+     "y2": 0.46625
+    }
+   },
+   "person": {
+    "x1": 0.14375,
+    "x2": 0.856875,
+    "y1": 0.059375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-b0ef9514-66c0-47f3-94bc-a3f2110d70a1-cutout.webp"
+  }
+ },
+ {
+  "id": "5ae91620-db7f-4264-a175-3f3501d37722",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-5ae91620-db7f-4264-a175-3f3501d37722.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.399375,
+    "x2": 0.595625,
+    "y1": 0.276875,
+    "y2": 0.326875
+   },
+   "face": {
+    "x1": 0.356875,
+    "x2": 0.635625,
+    "y1": 0.14875,
+    "y2": 0.548125
+   },
+   "mouth": {
+    "w": 0.06000000000000005,
+    "x": 0.499375,
+    "y": 0.46125,
+    "box": {
+     "x1": 0.469375,
+     "x2": 0.529375,
+     "y1": 0.450625,
+     "y2": 0.471875
+    }
+   },
+   "person": {
+    "x1": 0.14875,
+    "x2": 0.85,
+    "y1": 0.06375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-5ae91620-db7f-4264-a175-3f3501d37722-cutout.webp"
+  }
+ },
+ {
+  "id": "57cb8208-cab4-4fb3-9948-30e8e1d18d13",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-57cb8208-cab4-4fb3-9948-30e8e1d18d13.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39625,
+    "x2": 0.59125,
+    "y1": 0.274375,
+    "y2": 0.33125
+   },
+   "face": {
+    "x1": 0.34625,
+    "x2": 0.655,
+    "y1": 0.14625,
+    "y2": 0.519375
+   },
+   "mouth": {
+    "w": 0.11812500000000004,
+    "x": 0.5134375,
+    "y": 0.4434375,
+    "box": {
+     "x1": 0.454375,
+     "x2": 0.5725,
+     "y1": 0.423125,
+     "y2": 0.46375
+    }
+   },
+   "person": {
+    "x1": 0.164375,
+    "x2": 0.834375,
+    "y1": 0.065,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-57cb8208-cab4-4fb3-9948-30e8e1d18d13-cutout.webp"
+  }
+ },
+ {
+  "id": "6e7f2941-628c-4951-8990-c4483d311d85",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-6e7f2941-628c-4951-8990-c4483d311d85.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.394375,
+    "x2": 0.59,
+    "y1": 0.286875,
+    "y2": 0.325625
+   },
+   "face": {
+    "x1": 0.3075,
+    "x2": 0.651875,
+    "y1": 0.148125,
+    "y2": 0.5325
+   },
+   "mouth": {
+    "w": 0.11187499999999995,
+    "x": 0.4878125,
+    "y": 0.4378125,
+    "box": {
+     "x1": 0.431875,
+     "x2": 0.54375,
+     "y1": 0.424375,
+     "y2": 0.45125
+    }
+   },
+   "person": {
+    "x1": 0.135625,
+    "x2": 0.88,
+    "y1": 0.061875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-6e7f2941-628c-4951-8990-c4483d311d85-cutout.webp"
+  }
+ },
+ {
+  "id": "c36151f9-11b5-4aa0-b479-82601ef72227",
+  "lookId": "a3c02825-1474-4331-abb8-ffad7558e993",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "unspecified",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-c36151f9-11b5-4aa0-b479-82601ef72227.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.369375,
+    "x2": 0.563125,
+    "y1": 0.285625,
+    "y2": 0.330625
+   },
+   "face": {
+    "x1": 0.32625,
+    "x2": 0.608125,
+    "y1": 0.1475,
+    "y2": 0.529375
+   },
+   "mouth": {
+    "w": 0.12312499999999993,
+    "x": 0.4771875,
+    "y": 0.44375,
+    "box": {
+     "x1": 0.415625,
+     "x2": 0.53875,
+     "y1": 0.42375,
+     "y2": 0.46375
+    }
+   },
+   "person": {
+    "x1": 0.145625,
+    "x2": 0.9275,
+    "y1": 0.064375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-c36151f9-11b5-4aa0-b479-82601ef72227-cutout.webp"
+  }
+ },
+ {
+  "id": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "base",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-b7946b83-f2aa-4390-90d0-bdabc6b0d4df.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39875,
+    "x2": 0.605,
+    "y1": 0.31875,
+    "y2": 0.365
+   },
+   "face": {
+    "x1": 0.364375,
+    "x2": 0.671875,
+    "y1": 0.190625,
+    "y2": 0.555
+   },
+   "look": "1",
+   "mouth": {
+    "w": 0.11125000000000002,
+    "x": 0.500625,
+    "y": 0.473125,
+    "box": {
+     "x1": 0.445,
+     "x2": 0.55625,
+     "y1": 0.4625,
+     "y2": 0.48375
+    }
+   },
+   "person": {
+    "x1": 0.203125,
+    "x2": 0.803125,
+    "y1": 0.0675,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-b7946b83-f2aa-4390-90d0-bdabc6b0d4df-cutout.webp"
+  }
+ },
+ {
+  "id": "46b3e63e-d1fd-4c66-8606-aeddff84b3ba",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-46b3e63e-d1fd-4c66-8606-aeddff84b3ba.jpg",
+  "masks": {
+   "face": {
+    "x1": 0.365,
+    "x2": 0.669375,
+    "y1": 0.189375,
+    "y2": 0.554375
+   },
+   "mouth": {
+    "w": 0.11000000000000004,
+    "x": 0.500625,
+    "y": 0.4715625,
+    "box": {
+     "x1": 0.445625,
+     "x2": 0.555625,
+     "y1": 0.46,
+     "y2": 0.483125
+    }
+   },
+   "person": {
+    "x1": 0.2025,
+    "x2": 0.8025,
+    "y1": 0.066875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-46b3e63e-d1fd-4c66-8606-aeddff84b3ba-cutout.webp"
+  }
+ },
+ {
+  "id": "595c0368-d20c-4ac6-8ced-fe0b1380d840",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-595c0368-d20c-4ac6-8ced-fe0b1380d840.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.37875,
+    "x2": 0.59875,
+    "y1": 0.345,
+    "y2": 0.41
+   },
+   "face": {
+    "x1": 0.340625,
+    "x2": 0.63625,
+    "y1": 0.209375,
+    "y2": 0.61
+   },
+   "mouth": {
+    "w": 0.11437499999999995,
+    "x": 0.4971875,
+    "y": 0.5225,
+    "box": {
+     "x1": 0.44,
+     "x2": 0.554375,
+     "y1": 0.508125,
+     "y2": 0.536875
+    }
+   },
+   "person": {
+    "x1": 0.2075,
+    "x2": 0.80375,
+    "y1": 0.0775,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-595c0368-d20c-4ac6-8ced-fe0b1380d840-cutout.webp"
+  }
+ },
+ {
+  "id": "78ba4459-fc3c-4812-afd1-aaa78f2b8748",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-78ba4459-fc3c-4812-afd1-aaa78f2b8748.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.399375,
+    "x2": 0.603125,
+    "y1": 0.318125,
+    "y2": 0.3625
+   },
+   "face": {
+    "x1": 0.36125,
+    "x2": 0.6725,
+    "y1": 0.189375,
+    "y2": 0.55625
+   },
+   "mouth": {
+    "w": 0.10749999999999998,
+    "x": 0.49875,
+    "y": 0.4653125,
+    "box": {
+     "x1": 0.445,
+     "x2": 0.5525,
+     "y1": 0.455625,
+     "y2": 0.475
+    }
+   },
+   "person": {
+    "x1": 0.20375,
+    "x2": 0.803125,
+    "y1": 0.0675,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-78ba4459-fc3c-4812-afd1-aaa78f2b8748-cutout.webp"
+  }
+ },
+ {
+  "id": "513ff47c-6c4e-4eee-bb20-e702d916cf47",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-513ff47c-6c4e-4eee-bb20-e702d916cf47.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.399375,
+    "x2": 0.6025,
+    "y1": 0.30875,
+    "y2": 0.366875
+   },
+   "face": {
+    "x1": 0.365,
+    "x2": 0.67,
+    "y1": 0.189375,
+    "y2": 0.568125
+   },
+   "mouth": {
+    "w": 0.06625000000000003,
+    "x": 0.5018750000000001,
+    "y": 0.4765625,
+    "box": {
+     "x1": 0.46875,
+     "x2": 0.535,
+     "y1": 0.4575,
+     "y2": 0.495625
+    }
+   },
+   "person": {
+    "x1": 0.20375,
+    "x2": 0.801875,
+    "y1": 0.0675,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-513ff47c-6c4e-4eee-bb20-e702d916cf47-cutout.webp"
+  }
+ },
+ {
+  "id": "4c3ea86d-9a76-47a8-8f5b-71b2703c356d",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-4c3ea86d-9a76-47a8-8f5b-71b2703c356d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.399375,
+    "x2": 0.604375,
+    "y1": 0.3075,
+    "y2": 0.375
+   },
+   "face": {
+    "x1": 0.343125,
+    "x2": 0.6625,
+    "y1": 0.18875,
+    "y2": 0.560625
+   },
+   "mouth": {
+    "w": 0.08625,
+    "x": 0.525,
+    "y": 0.47625,
+    "box": {
+     "x1": 0.481875,
+     "x2": 0.568125,
+     "y1": 0.465625,
+     "y2": 0.486875
+    }
+   },
+   "person": {
+    "x1": 0.215625,
+    "x2": 0.801875,
+    "y1": 0.074375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-4c3ea86d-9a76-47a8-8f5b-71b2703c356d-cutout.webp"
+  }
+ },
+ {
+  "id": "10e1848d-729a-450a-ac1b-f05f3bd0d82a",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-10e1848d-729a-450a-ac1b-f05f3bd0d82a.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.384375,
+    "x2": 0.58375,
+    "y1": 0.319375,
+    "y2": 0.36375
+   },
+   "face": {
+    "x1": 0.33375,
+    "x2": 0.648125,
+    "y1": 0.191875,
+    "y2": 0.556875
+   },
+   "mouth": {
+    "w": 0.11625000000000008,
+    "x": 0.48625,
+    "y": 0.4659375,
+    "box": {
+     "x1": 0.428125,
+     "x2": 0.544375,
+     "y1": 0.4525,
+     "y2": 0.479375
+    }
+   },
+   "person": {
+    "x1": 0.194375,
+    "x2": 0.8825,
+    "y1": 0.070625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-10e1848d-729a-450a-ac1b-f05f3bd0d82a-cutout.webp"
+  }
+ },
+ {
+  "id": "9f918528-64e5-4eed-8506-252e16ab02a6",
+  "lookId": "b7946b83-f2aa-4390-90d0-bdabc6b0d4df",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "man",
+  "ageRange": "25-34",
+  "imageUrl": "/api/media/library-9f918528-64e5-4eed-8506-252e16ab02a6.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.383125,
+    "x2": 0.5825,
+    "y1": 0.318125,
+    "y2": 0.3675
+   },
+   "face": {
+    "x1": 0.348125,
+    "x2": 0.620625,
+    "y1": 0.190625,
+    "y2": 0.55375
+   },
+   "mouth": {
+    "w": 0.11124999999999996,
+    "x": 0.486875,
+    "y": 0.47062499999999996,
+    "box": {
+     "x1": 0.43125,
+     "x2": 0.5425,
+     "y1": 0.45875,
+     "y2": 0.4825
+    }
+   },
+   "person": {
+    "x1": 0.19875,
+    "x2": 0.894375,
+    "y1": 0.07125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-9f918528-64e5-4eed-8506-252e16ab02a6-cutout.webp"
+  }
+ },
+ {
+  "id": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "base",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-ba095df4-e7eb-41e0-bf06-fe73ee83b4b5.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.395625,
+    "x2": 0.60125,
+    "y1": 0.279375,
+    "y2": 0.32
+   },
+   "face": {
+    "x1": 0.32375,
+    "x2": 0.676875,
+    "y1": 0.14125,
+    "y2": 0.531875
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.12250000000000005,
+    "x": 0.499375,
+    "y": 0.4425,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.560625,
+     "y1": 0.4225,
+     "y2": 0.4625
+    }
+   },
+   "person": {
+    "x1": 0.100625,
+    "x2": 0.89875,
+    "y1": 0.055625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ba095df4-e7eb-41e0-bf06-fe73ee83b4b5-cutout.webp"
+  }
+ },
+ {
+  "id": "7115cc45-7db0-4696-986a-2440d86c7e0d",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-7115cc45-7db0-4696-986a-2440d86c7e0d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39375,
+    "x2": 0.604375,
+    "y1": 0.30625,
+    "y2": 0.3225
+   },
+   "face": {
+    "x1": 0.32375,
+    "x2": 0.67625,
+    "y1": 0.140625,
+    "y2": 0.529375
+   },
+   "mouth": {
+    "w": 0.12437500000000001,
+    "x": 0.5003124999999999,
+    "y": 0.44,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.5625,
+     "y1": 0.420625,
+     "y2": 0.459375
+    }
+   },
+   "person": {
+    "x1": 0.100625,
+    "x2": 0.898125,
+    "y1": 0.054375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-7115cc45-7db0-4696-986a-2440d86c7e0d-cutout.webp"
+  }
+ },
+ {
+  "id": "0adb6678-2eb0-425e-a36c-b4ccfbed233b",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-0adb6678-2eb0-425e-a36c-b4ccfbed233b.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.383125,
+    "x2": 0.60125,
+    "y1": 0.303125,
+    "y2": 0.361875
+   },
+   "face": {
+    "x1": 0.29875,
+    "x2": 0.67875,
+    "y1": 0.161875,
+    "y2": 0.61375
+   },
+   "mouth": {
+    "w": 0.12500000000000006,
+    "x": 0.503125,
+    "y": 0.494375,
+    "box": {
+     "x1": 0.440625,
+     "x2": 0.565625,
+     "y1": 0.4725,
+     "y2": 0.51625
+    }
+   },
+   "person": {
+    "x1": 0.2025,
+    "x2": 0.796875,
+    "y1": 0.064375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-0adb6678-2eb0-425e-a36c-b4ccfbed233b-cutout.webp"
+  }
+ },
+ {
+  "id": "4ad88d2e-2f12-42dc-be08-205feca3d28d",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-4ad88d2e-2f12-42dc-be08-205feca3d28d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.395625,
+    "x2": 0.600625,
+    "y1": 0.279375,
+    "y2": 0.31625
+   },
+   "face": {
+    "x1": 0.32,
+    "x2": 0.67625,
+    "y1": 0.140625,
+    "y2": 0.531875
+   },
+   "mouth": {
+    "w": 0.10687499999999994,
+    "x": 0.5009375,
+    "y": 0.434375,
+    "box": {
+     "x1": 0.4475,
+     "x2": 0.554375,
+     "y1": 0.42375,
+     "y2": 0.445
+    }
+   },
+   "person": {
+    "x1": 0.100625,
+    "x2": 0.89875,
+    "y1": 0.055625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-4ad88d2e-2f12-42dc-be08-205feca3d28d-cutout.webp"
+  }
+ },
+ {
+  "id": "17505c2a-d1d8-44d5-9c24-081f31920275",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-17505c2a-d1d8-44d5-9c24-081f31920275.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.395625,
+    "x2": 0.6,
+    "y1": 0.26375,
+    "y2": 0.31375
+   },
+   "face": {
+    "x1": 0.3275,
+    "x2": 0.675625,
+    "y1": 0.136875,
+    "y2": 0.5425
+   },
+   "mouth": {
+    "w": 0.07812499999999994,
+    "x": 0.49968749999999995,
+    "y": 0.448125,
+    "box": {
+     "x1": 0.460625,
+     "x2": 0.53875,
+     "y1": 0.434375,
+     "y2": 0.461875
+    }
+   },
+   "person": {
+    "x1": 0.10875,
+    "x2": 0.889375,
+    "y1": 0.055,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-17505c2a-d1d8-44d5-9c24-081f31920275-cutout.webp"
+  }
+ },
+ {
+  "id": "f02b6c81-8404-48f6-a2e6-7797a6b18c5c",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-f02b6c81-8404-48f6-a2e6-7797a6b18c5c.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.399375,
+    "x2": 0.6,
+    "y1": 0.24875,
+    "y2": 0.316875
+   },
+   "face": {
+    "x1": 0.34125,
+    "x2": 0.64875,
+    "y1": 0.13,
+    "y2": 0.51375
+   },
+   "mouth": {
+    "w": 0.114375,
+    "x": 0.5271874999999999,
+    "y": 0.42656249999999996,
+    "box": {
+     "x1": 0.47,
+     "x2": 0.584375,
+     "y1": 0.406875,
+     "y2": 0.44625
+    }
+   },
+   "person": {
+    "x1": 0.16625,
+    "x2": 0.829375,
+    "y1": 0.06,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-f02b6c81-8404-48f6-a2e6-7797a6b18c5c-cutout.webp"
+  }
+ },
+ {
+  "id": "8296e79e-de1d-41a5-8204-e73163822c3f",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-8296e79e-de1d-41a5-8204-e73163822c3f.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.586875,
+    "y1": 0.27875,
+    "y2": 0.319375
+   },
+   "face": {
+    "x1": 0.29625,
+    "x2": 0.648125,
+    "y1": 0.1425,
+    "y2": 0.53125
+   },
+   "mouth": {
+    "w": 0.13687499999999997,
+    "x": 0.48593749999999997,
+    "y": 0.4375,
+    "box": {
+     "x1": 0.4175,
+     "x2": 0.554375,
+     "y1": 0.4175,
+     "y2": 0.4575
+    }
+   },
+   "person": {
+    "x1": 0.094375,
+    "x2": 0.90875,
+    "y1": 0.05875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-8296e79e-de1d-41a5-8204-e73163822c3f-cutout.webp"
+  }
+ },
+ {
+  "id": "62b696b3-e44a-48b7-ac18-377b14d13953",
+  "lookId": "ba095df4-e7eb-41e0-bf06-fe73ee83b4b5",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "unspecified",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-62b696b3-e44a-48b7-ac18-377b14d13953.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.41375,
+    "x2": 0.615625,
+    "y1": 0.28,
+    "y2": 0.32375
+   },
+   "face": {
+    "x1": 0.371875,
+    "x2": 0.66875,
+    "y1": 0.14375,
+    "y2": 0.531875
+   },
+   "mouth": {
+    "w": 0.1275,
+    "x": 0.51875,
+    "y": 0.44156249999999997,
+    "box": {
+     "x1": 0.455,
+     "x2": 0.5825,
+     "y1": 0.42125,
+     "y2": 0.461875
+    }
+   },
+   "person": {
+    "x1": 0.0625,
+    "x2": 0.865,
+    "y1": 0.059375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-62b696b3-e44a-48b7-ac18-377b14d13953-cutout.webp"
+  }
+ },
+ {
+  "id": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "base",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.396875,
+    "x2": 0.5975,
+    "y1": 0.284375,
+    "y2": 0.325
+   },
+   "face": {
+    "x1": 0.3525,
+    "x2": 0.636875,
+    "y1": 0.15,
+    "y2": 0.538125
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.12749999999999995,
+    "x": 0.5,
+    "y": 0.44343750000000004,
+    "box": {
+     "x1": 0.43625,
+     "x2": 0.56375,
+     "y1": 0.420625,
+     "y2": 0.46625
+    }
+   },
+   "person": {
+    "x1": 0.108125,
+    "x2": 0.895,
+    "y1": 0.068125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f-cutout.webp"
+  }
+ },
+ {
+  "id": "9ede4289-a426-4b1c-af16-bb48eeebd848",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-9ede4289-a426-4b1c-af16-bb48eeebd848.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39375,
+    "x2": 0.598125,
+    "y1": 0.30875,
+    "y2": 0.324375
+   },
+   "face": {
+    "x1": 0.351875,
+    "x2": 0.65125,
+    "y1": 0.150625,
+    "y2": 0.538125
+   },
+   "mouth": {
+    "w": 0.12687499999999996,
+    "x": 0.4996875,
+    "y": 0.44375,
+    "box": {
+     "x1": 0.43625,
+     "x2": 0.563125,
+     "y1": 0.420625,
+     "y2": 0.466875
+    }
+   },
+   "person": {
+    "x1": 0.108125,
+    "x2": 0.89375,
+    "y1": 0.06875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-9ede4289-a426-4b1c-af16-bb48eeebd848-cutout.webp"
+  }
+ },
+ {
+  "id": "36057154-ed45-404b-8c39-3db505e3a768",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-36057154-ed45-404b-8c39-3db505e3a768.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.391875,
+    "x2": 0.604375,
+    "y1": 0.32625,
+    "y2": 0.3825
+   },
+   "face": {
+    "x1": 0.343125,
+    "x2": 0.651875,
+    "y1": 0.19,
+    "y2": 0.64125
+   },
+   "mouth": {
+    "w": 0.12687499999999996,
+    "x": 0.5059374999999999,
+    "y": 0.5125,
+    "box": {
+     "x1": 0.4425,
+     "x2": 0.569375,
+     "y1": 0.486875,
+     "y2": 0.538125
+    }
+   },
+   "person": {
+    "x1": 0.1975,
+    "x2": 0.8025,
+    "y1": 0.09875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-36057154-ed45-404b-8c39-3db505e3a768-cutout.webp"
+  }
+ },
+ {
+  "id": "61d8734f-f36a-4a2a-abca-00e9725fc76b",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-61d8734f-f36a-4a2a-abca-00e9725fc76b.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.395,
+    "x2": 0.594375,
+    "y1": 0.2825,
+    "y2": 0.325
+   },
+   "face": {
+    "x1": 0.35125,
+    "x2": 0.648125,
+    "y1": 0.15,
+    "y2": 0.53875
+   },
+   "mouth": {
+    "w": 0.11000000000000004,
+    "x": 0.50125,
+    "y": 0.435625,
+    "box": {
+     "x1": 0.44625,
+     "x2": 0.55625,
+     "y1": 0.425,
+     "y2": 0.44625
+    }
+   },
+   "person": {
+    "x1": 0.108125,
+    "x2": 0.894375,
+    "y1": 0.06875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-61d8734f-f36a-4a2a-abca-00e9725fc76b-cutout.webp"
+  }
+ },
+ {
+  "id": "58ba5041-1ad2-4103-bced-1e1de0cd3d82",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-58ba5041-1ad2-4103-bced-1e1de0cd3d82.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39625,
+    "x2": 0.595,
+    "y1": 0.27625,
+    "y2": 0.326875
+   },
+   "face": {
+    "x1": 0.354375,
+    "x2": 0.636875,
+    "y1": 0.150625,
+    "y2": 0.5525
+   },
+   "mouth": {
+    "w": 0.06562499999999999,
+    "x": 0.49906249999999996,
+    "y": 0.455,
+    "box": {
+     "x1": 0.46625,
+     "x2": 0.531875,
+     "y1": 0.441875,
+     "y2": 0.468125
+    }
+   },
+   "person": {
+    "x1": 0.113125,
+    "x2": 0.886875,
+    "y1": 0.070625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-58ba5041-1ad2-4103-bced-1e1de0cd3d82-cutout.webp"
+  }
+ },
+ {
+  "id": "95d5132d-fe98-45e5-b15d-f66b6eb70482",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-95d5132d-fe98-45e5-b15d-f66b6eb70482.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.578125,
+    "y1": 0.25625,
+    "y2": 0.323125
+   },
+   "face": {
+    "x1": 0.33625,
+    "x2": 0.635,
+    "y1": 0.140625,
+    "y2": 0.519375
+   },
+   "mouth": {
+    "w": 0.11249999999999993,
+    "x": 0.5137499999999999,
+    "y": 0.4203125,
+    "box": {
+     "x1": 0.4575,
+     "x2": 0.57,
+     "y1": 0.39875,
+     "y2": 0.441875
+    }
+   },
+   "person": {
+    "x1": 0.150625,
+    "x2": 0.853125,
+    "y1": 0.074375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-95d5132d-fe98-45e5-b15d-f66b6eb70482-cutout.webp"
+  }
+ },
+ {
+  "id": "5e2a357c-7f71-49e7-8bee-0c3e93f05cbc",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-5e2a357c-7f71-49e7-8bee-0c3e93f05cbc.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.374375,
+    "x2": 0.57125,
+    "y1": 0.28,
+    "y2": 0.326875
+   },
+   "face": {
+    "x1": 0.3275,
+    "x2": 0.64125,
+    "y1": 0.149375,
+    "y2": 0.538125
+   },
+   "mouth": {
+    "w": 0.10999999999999999,
+    "x": 0.4825,
+    "y": 0.434375,
+    "box": {
+     "x1": 0.4275,
+     "x2": 0.5375,
+     "y1": 0.421875,
+     "y2": 0.446875
+    }
+   },
+   "person": {
+    "x1": 0.105,
+    "x2": 0.945625,
+    "y1": 0.070625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-5e2a357c-7f71-49e7-8bee-0c3e93f05cbc-cutout.webp"
+  }
+ },
+ {
+  "id": "3aee865b-e560-4589-bb2d-2dc455011c1c",
+  "lookId": "c2fc50d2-895e-4c5f-abf8-2ed2f10b5f4f",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "man",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-3aee865b-e560-4589-bb2d-2dc455011c1c.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.361875,
+    "x2": 0.5575,
+    "y1": 0.280625,
+    "y2": 0.329375
+   },
+   "face": {
+    "x1": 0.32,
+    "x2": 0.62375,
+    "y1": 0.150625,
+    "y2": 0.536875
+   },
+   "mouth": {
+    "w": 0.13125000000000003,
+    "x": 0.469375,
+    "y": 0.44125000000000003,
+    "box": {
+     "x1": 0.40375,
+     "x2": 0.535,
+     "y1": 0.41875,
+     "y2": 0.46375
+    }
+   },
+   "person": {
+    "x1": 0.101875,
+    "x2": 0.93375,
+    "y1": 0.073125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-3aee865b-e560-4589-bb2d-2dc455011c1c-cutout.webp"
+  }
+ },
+ {
+  "id": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "base",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-c7ef9df8-27d1-4179-8a07-1727370c4024.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.403125,
+    "x2": 0.59375,
+    "y1": 0.265,
+    "y2": 0.29875
+   },
+   "face": {
+    "x1": 0.351875,
+    "x2": 0.65125,
+    "y1": 0.125625,
+    "y2": 0.515
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.12687499999999996,
+    "x": 0.5015624999999999,
+    "y": 0.4234375,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.565,
+     "y1": 0.40625,
+     "y2": 0.440625
+    }
+   },
+   "person": {
+    "x1": 0.11875,
+    "x2": 0.885625,
+    "y1": 0.06,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-c7ef9df8-27d1-4179-8a07-1727370c4024-cutout.webp"
+  }
+ },
+ {
+  "id": "658dbd9e-edc3-41ba-aa71-010a84e80e3c",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-658dbd9e-edc3-41ba-aa71-010a84e80e3c.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.399375,
+    "x2": 0.596875,
+    "y1": 0.28625,
+    "y2": 0.303125
+   },
+   "face": {
+    "x1": 0.34875,
+    "x2": 0.65125,
+    "y1": 0.12625,
+    "y2": 0.514375
+   },
+   "mouth": {
+    "w": 0.12750000000000006,
+    "x": 0.5018750000000001,
+    "y": 0.41874999999999996,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.565625,
+     "y1": 0.396875,
+     "y2": 0.440625
+    }
+   },
+   "person": {
+    "x1": 0.119375,
+    "x2": 0.885,
+    "y1": 0.06125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-658dbd9e-edc3-41ba-aa71-010a84e80e3c-cutout.webp"
+  }
+ },
+ {
+  "id": "908bc35b-09d9-4a51-963d-fe4aa92121e3",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-908bc35b-09d9-4a51-963d-fe4aa92121e3.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.386875,
+    "x2": 0.591875,
+    "y1": 0.294375,
+    "y2": 0.341875
+   },
+   "face": {
+    "x1": 0.324375,
+    "x2": 0.665625,
+    "y1": 0.153125,
+    "y2": 0.574375
+   },
+   "mouth": {
+    "w": 0.13062499999999994,
+    "x": 0.49968749999999995,
+    "y": 0.4753125,
+    "box": {
+     "x1": 0.434375,
+     "x2": 0.565,
+     "y1": 0.451875,
+     "y2": 0.49875
+    }
+   },
+   "person": {
+    "x1": 0.18125,
+    "x2": 0.82875,
+    "y1": 0.079375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-908bc35b-09d9-4a51-963d-fe4aa92121e3-cutout.webp"
+  }
+ },
+ {
+  "id": "dc5932b1-bb26-4a80-8db3-e5b57f212b42",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-dc5932b1-bb26-4a80-8db3-e5b57f212b42.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.4025,
+    "x2": 0.5925,
+    "y1": 0.26625,
+    "y2": 0.298125
+   },
+   "face": {
+    "x1": 0.35875,
+    "x2": 0.635625,
+    "y1": 0.12625,
+    "y2": 0.514375
+   },
+   "mouth": {
+    "w": 0.1325,
+    "x": 0.501875,
+    "y": 0.42093749999999996,
+    "box": {
+     "x1": 0.435625,
+     "x2": 0.568125,
+     "y1": 0.39875,
+     "y2": 0.443125
+    }
+   },
+   "person": {
+    "x1": 0.119375,
+    "x2": 0.885625,
+    "y1": 0.060625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-dc5932b1-bb26-4a80-8db3-e5b57f212b42-cutout.webp"
+  }
+ },
+ {
+  "id": "1d03a895-1625-4177-976c-45be889b4c7c",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-1d03a895-1625-4177-976c-45be889b4c7c.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.403125,
+    "x2": 0.593125,
+    "y1": 0.255625,
+    "y2": 0.298125
+   },
+   "face": {
+    "x1": 0.36125,
+    "x2": 0.635625,
+    "y1": 0.12625,
+    "y2": 0.533125
+   },
+   "mouth": {
+    "w": 0.06500000000000006,
+    "x": 0.5018750000000001,
+    "y": 0.43343750000000003,
+    "box": {
+     "x1": 0.469375,
+     "x2": 0.534375,
+     "y1": 0.418125,
+     "y2": 0.44875
+    }
+   },
+   "person": {
+    "x1": 0.12125,
+    "x2": 0.88,
+    "y1": 0.063125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-1d03a895-1625-4177-976c-45be889b4c7c-cutout.webp"
+  }
+ },
+ {
+  "id": "6d414887-0544-4d32-9a58-4c0349402ca5",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-6d414887-0544-4d32-9a58-4c0349402ca5.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.4,
+    "x2": 0.596875,
+    "y1": 0.25625,
+    "y2": 0.324375
+   },
+   "face": {
+    "x1": 0.345625,
+    "x2": 0.6425,
+    "y1": 0.12875,
+    "y2": 0.54125
+   },
+   "mouth": {
+    "w": 0.12,
+    "x": 0.5331250000000001,
+    "y": 0.43625,
+    "box": {
+     "x1": 0.473125,
+     "x2": 0.593125,
+     "y1": 0.413125,
+     "y2": 0.459375
+    }
+   },
+   "person": {
+    "x1": 0.143125,
+    "x2": 0.8725,
+    "y1": 0.069375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-6d414887-0544-4d32-9a58-4c0349402ca5-cutout.webp"
+  }
+ },
+ {
+  "id": "59248d16-9fb7-4e94-b47c-62b85c19adbf",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-59248d16-9fb7-4e94-b47c-62b85c19adbf.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38625,
+    "x2": 0.574375,
+    "y1": 0.2625,
+    "y2": 0.303125
+   },
+   "face": {
+    "x1": 0.31,
+    "x2": 0.6375,
+    "y1": 0.129375,
+    "y2": 0.52
+   },
+   "mouth": {
+    "w": 0.12562500000000004,
+    "x": 0.4878125,
+    "y": 0.4134375,
+    "box": {
+     "x1": 0.425,
+     "x2": 0.550625,
+     "y1": 0.39625,
+     "y2": 0.430625
+    }
+   },
+   "person": {
+    "x1": 0.11875,
+    "x2": 0.95125,
+    "y1": 0.065,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-59248d16-9fb7-4e94-b47c-62b85c19adbf-cutout.webp"
+  }
+ },
+ {
+  "id": "d7f12201-da7b-41b1-9c7d-ab87226410f1",
+  "lookId": "c7ef9df8-27d1-4179-8a07-1727370c4024",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "man",
+  "ageRange": "45-54",
+  "imageUrl": "/api/media/library-d7f12201-da7b-41b1-9c7d-ab87226410f1.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39375,
+    "x2": 0.579375,
+    "y1": 0.263125,
+    "y2": 0.309375
+   },
+   "face": {
+    "x1": 0.35125,
+    "x2": 0.64125,
+    "y1": 0.129375,
+    "y2": 0.51625
+   },
+   "mouth": {
+    "w": 0.125625,
+    "x": 0.5009375,
+    "y": 0.4203125,
+    "box": {
+     "x1": 0.438125,
+     "x2": 0.56375,
+     "y1": 0.3975,
+     "y2": 0.443125
+    }
+   },
+   "person": {
+    "x1": 0.041875,
+    "x2": 0.885625,
+    "y1": 0.066875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d7f12201-da7b-41b1-9c7d-ab87226410f1-cutout.webp"
+  }
+ },
+ {
+  "id": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "base",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-ca42703a-6dd1-481d-83ff-10a37323cc42.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.394375,
+    "x2": 0.598125,
+    "y1": 0.275,
+    "y2": 0.313125
+   },
+   "face": {
+    "x1": 0.3575,
+    "x2": 0.6325,
+    "y1": 0.1425,
+    "y2": 0.51
+   },
+   "look": "0",
+   "mouth": {
+    "w": 0.11500000000000005,
+    "x": 0.49812500000000004,
+    "y": 0.433125,
+    "box": {
+     "x1": 0.440625,
+     "x2": 0.555625,
+     "y1": 0.41625,
+     "y2": 0.45
+    }
+   },
+   "person": {
+    "x1": 0.111875,
+    "x2": 0.889375,
+    "y1": 0.049375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ca42703a-6dd1-481d-83ff-10a37323cc42-cutout.webp"
+  }
+ },
+ {
+  "id": "d41541b9-feb5-498f-81ca-74343d5ca19d",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-d41541b9-feb5-498f-81ca-74343d5ca19d.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.391875,
+    "x2": 0.6,
+    "y1": 0.29625,
+    "y2": 0.31625
+   },
+   "face": {
+    "x1": 0.356875,
+    "x2": 0.6375,
+    "y1": 0.14375,
+    "y2": 0.510625
+   },
+   "mouth": {
+    "w": 0.11312500000000003,
+    "x": 0.49843750000000003,
+    "y": 0.433125,
+    "box": {
+     "x1": 0.441875,
+     "x2": 0.555,
+     "y1": 0.415625,
+     "y2": 0.450625
+    }
+   },
+   "person": {
+    "x1": 0.113125,
+    "x2": 0.888125,
+    "y1": 0.05,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d41541b9-feb5-498f-81ca-74343d5ca19d-cutout.webp"
+  }
+ },
+ {
+  "id": "827c2523-420f-47da-a5d6-3b86f1d11511",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-827c2523-420f-47da-a5d6-3b86f1d11511.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385,
+    "x2": 0.60125,
+    "y1": 0.305,
+    "y2": 0.365
+   },
+   "face": {
+    "x1": 0.343125,
+    "x2": 0.655,
+    "y1": 0.17125,
+    "y2": 0.575625
+   },
+   "mouth": {
+    "w": 0.11499999999999999,
+    "x": 0.51,
+    "y": 0.49124999999999996,
+    "box": {
+     "x1": 0.4525,
+     "x2": 0.5675,
+     "y1": 0.4725,
+     "y2": 0.51
+    }
+   },
+   "person": {
+    "x1": 0.195625,
+    "x2": 0.799375,
+    "y1": 0.07,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-827c2523-420f-47da-a5d6-3b86f1d11511-cutout.webp"
+  }
+ },
+ {
+  "id": "ccce28cd-9d65-411e-ac03-35b4dffbe8a4",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-ccce28cd-9d65-411e-ac03-35b4dffbe8a4.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39375,
+    "x2": 0.5975,
+    "y1": 0.273125,
+    "y2": 0.3125
+   },
+   "face": {
+    "x1": 0.3575,
+    "x2": 0.635,
+    "y1": 0.143125,
+    "y2": 0.51125
+   },
+   "mouth": {
+    "w": 0.10375000000000001,
+    "x": 0.49875,
+    "y": 0.42000000000000004,
+    "box": {
+     "x1": 0.446875,
+     "x2": 0.550625,
+     "y1": 0.410625,
+     "y2": 0.429375
+    }
+   },
+   "person": {
+    "x1": 0.111875,
+    "x2": 0.88875,
+    "y1": 0.05,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-ccce28cd-9d65-411e-ac03-35b4dffbe8a4-cutout.webp"
+  }
+ },
+ {
+  "id": "793fa47b-0840-4b45-8a51-4b8ebd2f8d1e",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-793fa47b-0840-4b45-8a51-4b8ebd2f8d1e.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.393125,
+    "x2": 0.598125,
+    "y1": 0.261875,
+    "y2": 0.313125
+   },
+   "face": {
+    "x1": 0.355625,
+    "x2": 0.635,
+    "y1": 0.14125,
+    "y2": 0.52625
+   },
+   "mouth": {
+    "w": 0.06624999999999998,
+    "x": 0.49812500000000004,
+    "y": 0.4384375,
+    "box": {
+     "x1": 0.465,
+     "x2": 0.53125,
+     "y1": 0.425625,
+     "y2": 0.45125
+    }
+   },
+   "person": {
+    "x1": 0.11875,
+    "x2": 0.880625,
+    "y1": 0.050625,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-793fa47b-0840-4b45-8a51-4b8ebd2f8d1e-cutout.webp"
+  }
+ },
+ {
+  "id": "427842e5-d1d3-4293-a83a-a8787c20b433",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-427842e5-d1d3-4293-a83a-a8787c20b433.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.400625,
+    "x2": 0.595625,
+    "y1": 0.25,
+    "y2": 0.31375
+   },
+   "face": {
+    "x1": 0.35,
+    "x2": 0.63875,
+    "y1": 0.136875,
+    "y2": 0.496875
+   },
+   "mouth": {
+    "w": 0.10312500000000002,
+    "x": 0.5259375,
+    "y": 0.4096875,
+    "box": {
+     "x1": 0.474375,
+     "x2": 0.5775,
+     "y1": 0.39,
+     "y2": 0.429375
+    }
+   },
+   "person": {
+    "x1": 0.185625,
+    "x2": 0.813125,
+    "y1": 0.059375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-427842e5-d1d3-4293-a83a-a8787c20b433-cutout.webp"
+  }
+ },
+ {
+  "id": "b52fcdc6-69c2-4b5c-9b39-12d0d1aa3b44",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-b52fcdc6-69c2-4b5c-9b39-12d0d1aa3b44.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39125,
+    "x2": 0.590625,
+    "y1": 0.27125,
+    "y2": 0.315625
+   },
+   "face": {
+    "x1": 0.344375,
+    "x2": 0.648125,
+    "y1": 0.143125,
+    "y2": 0.514375
+   },
+   "mouth": {
+    "w": 0.11312499999999998,
+    "x": 0.4815625,
+    "y": 0.4196875,
+    "box": {
+     "x1": 0.425,
+     "x2": 0.538125,
+     "y1": 0.404375,
+     "y2": 0.435
+    }
+   },
+   "person": {
+    "x1": 0.104375,
+    "x2": 0.92625,
+    "y1": 0.054375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-b52fcdc6-69c2-4b5c-9b39-12d0d1aa3b44-cutout.webp"
+  }
+ },
+ {
+  "id": "11dcd6cf-c2dd-41e5-9108-6b2da91b5f9b",
+  "lookId": "ca42703a-6dd1-481d-83ff-10a37323cc42",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "unspecified",
+  "ageRange": "35-44",
+  "imageUrl": "/api/media/library-11dcd6cf-c2dd-41e5-9108-6b2da91b5f9b.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3675,
+    "x2": 0.568125,
+    "y1": 0.274375,
+    "y2": 0.316875
+   },
+   "face": {
+    "x1": 0.306875,
+    "x2": 0.63375,
+    "y1": 0.145,
+    "y2": 0.5125
+   },
+   "mouth": {
+    "w": 0.11624999999999996,
+    "x": 0.475,
+    "y": 0.43062500000000004,
+    "box": {
+     "x1": 0.416875,
+     "x2": 0.533125,
+     "y1": 0.41125,
+     "y2": 0.45
+    }
+   },
+   "person": {
+    "x1": 0.11375,
+    "x2": 0.9425,
+    "y1": 0.05375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-11dcd6cf-c2dd-41e5-9108-6b2da91b5f9b-cutout.webp"
+  }
+ },
+ {
+  "id": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "base",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-d9685760-c599-429d-b4b7-d0ffe46654d6.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385625,
+    "x2": 0.613125,
+    "y1": 0.303125,
+    "y2": 0.353125
+   },
+   "face": {
+    "x1": 0.31,
+    "x2": 0.690625,
+    "y1": 0.168125,
+    "y2": 0.548125
+   },
+   "look": "3",
+   "mouth": {
+    "w": 0.11374999999999996,
+    "x": 0.501875,
+    "y": 0.469375,
+    "box": {
+     "x1": 0.445,
+     "x2": 0.55875,
+     "y1": 0.455625,
+     "y2": 0.483125
+    }
+   },
+   "person": {
+    "x1": 0.169375,
+    "x2": 0.830625,
+    "y1": 0.0575,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-d9685760-c599-429d-b4b7-d0ffe46654d6-cutout.webp"
+  }
+ },
+ {
+  "id": "e34bb9fb-2512-4874-934c-a3076e142a75",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "blink",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-e34bb9fb-2512-4874-934c-a3076e142a75.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385,
+    "x2": 0.610625,
+    "y1": 0.330625,
+    "y2": 0.358125
+   },
+   "face": {
+    "x1": 0.31,
+    "x2": 0.688125,
+    "y1": 0.1675,
+    "y2": 0.54625
+   },
+   "mouth": {
+    "w": 0.11249999999999999,
+    "x": 0.50125,
+    "y": 0.4671875,
+    "box": {
+     "x1": 0.445,
+     "x2": 0.5575,
+     "y1": 0.453125,
+     "y2": 0.48125
+    }
+   },
+   "person": {
+    "x1": 0.17,
+    "x2": 0.830625,
+    "y1": 0.056875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-e34bb9fb-2512-4874-934c-a3076e142a75-cutout.webp"
+  }
+ },
+ {
+  "id": "b6ef6815-f65b-43ba-85bf-b1ba227e7ac5",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "listening",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-b6ef6815-f65b-43ba-85bf-b1ba227e7ac5.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3825,
+    "x2": 0.61375,
+    "y1": 0.31625,
+    "y2": 0.376875
+   },
+   "face": {
+    "x1": 0.303125,
+    "x2": 0.695,
+    "y1": 0.18125,
+    "y2": 0.5775
+   },
+   "mouth": {
+    "w": 0.12062499999999993,
+    "x": 0.5046875,
+    "y": 0.49468749999999995,
+    "box": {
+     "x1": 0.444375,
+     "x2": 0.565,
+     "y1": 0.4775,
+     "y2": 0.511875
+    }
+   },
+   "person": {
+    "x1": 0.225625,
+    "x2": 0.7675,
+    "y1": 0.064375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-b6ef6815-f65b-43ba-85bf-b1ba227e7ac5-cutout.webp"
+  }
+ },
+ {
+  "id": "6d3e4c8d-6f3e-418d-add1-61e08564e1f3",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "smile",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-6d3e4c8d-6f3e-418d-add1-61e08564e1f3.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.385,
+    "x2": 0.609375,
+    "y1": 0.30125,
+    "y2": 0.35125
+   },
+   "face": {
+    "x1": 0.31,
+    "x2": 0.6875,
+    "y1": 0.16625,
+    "y2": 0.549375
+   },
+   "mouth": {
+    "w": 0.11749999999999994,
+    "x": 0.505625,
+    "y": 0.459375,
+    "box": {
+     "x1": 0.446875,
+     "x2": 0.564375,
+     "y1": 0.445,
+     "y2": 0.47375
+    }
+   },
+   "person": {
+    "x1": 0.170625,
+    "x2": 0.829375,
+    "y1": 0.0575,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-6d3e4c8d-6f3e-418d-add1-61e08564e1f3-cutout.webp"
+  }
+ },
+ {
+  "id": "0855d3de-e765-4c6f-b969-9c4e489994fb",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "surprised",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-0855d3de-e765-4c6f-b969-9c4e489994fb.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.38875,
+    "x2": 0.606875,
+    "y1": 0.293125,
+    "y2": 0.348125
+   },
+   "face": {
+    "x1": 0.311875,
+    "x2": 0.69,
+    "y1": 0.16625,
+    "y2": 0.559375
+   },
+   "mouth": {
+    "w": 0.07187499999999997,
+    "x": 0.5015625,
+    "y": 0.47625,
+    "box": {
+     "x1": 0.465625,
+     "x2": 0.5375,
+     "y1": 0.465625,
+     "y2": 0.486875
+    }
+   },
+   "person": {
+    "x1": 0.171875,
+    "x2": 0.826875,
+    "y1": 0.05875,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-0855d3de-e765-4c6f-b969-9c4e489994fb-cutout.webp"
+  }
+ },
+ {
+  "id": "aa8fe2ed-72b5-4784-b674-f62a402dd6c8",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "thinking",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-aa8fe2ed-72b5-4784-b674-f62a402dd6c8.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.39125,
+    "x2": 0.605,
+    "y1": 0.27375,
+    "y2": 0.34125
+   },
+   "face": {
+    "x1": 0.319375,
+    "x2": 0.65875,
+    "y1": 0.158125,
+    "y2": 0.53
+   },
+   "mouth": {
+    "w": 0.09874999999999995,
+    "x": 0.525625,
+    "y": 0.4475,
+    "box": {
+     "x1": 0.47625,
+     "x2": 0.575,
+     "y1": 0.434375,
+     "y2": 0.460625
+    }
+   },
+   "person": {
+    "x1": 0.19625,
+    "x2": 0.81625,
+    "y1": 0.063125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-aa8fe2ed-72b5-4784-b674-f62a402dd6c8-cutout.webp"
+  }
+ },
+ {
+  "id": "e72b9643-cab9-499c-860e-12587acd6c8a",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "thumbs_up",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-e72b9643-cab9-499c-860e-12587acd6c8a.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.373125,
+    "x2": 0.593125,
+    "y1": 0.29875,
+    "y2": 0.3525
+   },
+   "face": {
+    "x1": 0.29625,
+    "x2": 0.665625,
+    "y1": 0.166875,
+    "y2": 0.549375
+   },
+   "mouth": {
+    "w": 0.11375000000000002,
+    "x": 0.494375,
+    "y": 0.45718749999999997,
+    "box": {
+     "x1": 0.4375,
+     "x2": 0.55125,
+     "y1": 0.441875,
+     "y2": 0.4725
+    }
+   },
+   "person": {
+    "x1": 0.1675,
+    "x2": 0.88,
+    "y1": 0.06125,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-e72b9643-cab9-499c-860e-12587acd6c8a-cutout.webp"
+  }
+ },
+ {
+  "id": "0b68ace2-3ff5-4881-ae12-a3d6c9936646",
+  "lookId": "d9685760-c599-429d-b4b7-d0ffe46654d6",
+  "style": "animated",
+  "variant": "wave",
+  "gender": "woman",
+  "ageRange": "65+",
+  "imageUrl": "/api/media/library-0b68ace2-3ff5-4881-ae12-a3d6c9936646.jpg",
+  "masks": {
+   "eyes": {
+    "x1": 0.3625,
+    "x2": 0.5825,
+    "y1": 0.29625,
+    "y2": 0.356875
+   },
+   "face": {
+    "x1": 0.289375,
+    "x2": 0.65875,
+    "y1": 0.16625,
+    "y2": 0.545625
+   },
+   "mouth": {
+    "w": 0.11375000000000002,
+    "x": 0.48375,
+    "y": 0.46468750000000003,
+    "box": {
+     "x1": 0.426875,
+     "x2": 0.540625,
+     "y1": 0.44875,
+     "y2": 0.480625
+    }
+   },
+   "person": {
+    "x1": 0.16875,
+    "x2": 0.901875,
+    "y1": 0.059375,
+    "y2": 1
+   },
+   "cutout_url": "/api/media/library-0b68ace2-3ff5-4881-ae12-a3d6c9936646-cutout.webp"
+  }
+ }
+]

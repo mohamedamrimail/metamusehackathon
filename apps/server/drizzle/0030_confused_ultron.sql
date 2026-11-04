@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "pending_approval_at" timestamp with time zone;

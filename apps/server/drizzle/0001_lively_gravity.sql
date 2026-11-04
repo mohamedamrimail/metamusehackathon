@@ -1,0 +1,1 @@
+ALTER TABLE "ipersons" ADD COLUMN "avatar_meta" jsonb;

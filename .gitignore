@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env*
+!.env.example
+*.log
+*.bundle
+uploads/
+uploads-video/
+apps/server/geo/
+/screenshots/
+HANDOVER.md
+handover.md
+video-shots/
+video-shots*.zip

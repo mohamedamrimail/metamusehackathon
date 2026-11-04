@@ -1,0 +1,50 @@
+# One command: `docker compose up --build`, then open http://localhost:3000 (APP_PORT changes the port).
+# Only META_API_KEY in .env is needed; Postgres and Redis run here, with no ports opened on your machine.
+services:
+  app:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DATABASE_URL: postgres://ip:ip@db:5432/ipersons
+      REDIS_URL: redis://redis:6379/0
+      NODE_ENV: development
+      HOST: 0.0.0.0
+      PORT: "3000"
+      APP_URL: http://localhost:${APP_PORT:-3000}
+      PUBLIC_URL: ${PUBLIC_URL:-http://localhost:${APP_PORT:-3000}}
+      UPLOAD_DIR: /data/uploads
+    ports:
+      - "${APP_PORT:-3000}:3000"
+    volumes:
+      - ipersons-data:/data
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    restart: unless-stopped
+
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: ip
+      POSTGRES_PASSWORD: ip
+      POSTGRES_DB: ipersons
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ip -d ipersons"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+    restart: unless-stopped
+
+  redis:
+    image: redis:7
+    restart: unless-stopped
+
+volumes:
+  pgdata:
+  ipersons-data:

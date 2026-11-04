@@ -1,0 +1,1 @@
+ALTER TABLE "actions" ADD COLUMN "influenced_by" text;

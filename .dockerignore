@@ -1,0 +1,15 @@
+**/node_modules
+**/dist
+.git
+.env
+.env.*
+!.env.example
+apps/server/uploads
+apps/server/uploads-video
+apps/server/geo
+screenshots
+video-shots
+*.zip
+*.log
+handover.md
+HANDOVER.md

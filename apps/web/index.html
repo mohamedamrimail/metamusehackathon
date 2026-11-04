@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#000000" />
+    <!--seo--><title>i-persons — your digital twin, never without your yes</title>
+    <meta name="description" content="i-persons gives you a living digital twin made from your selfie: it talks with you by voice, on WhatsApp and on Meta Ray-Ban Display glasses, learns what matters to you, acts for you and speaks for you, but never without your yes." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="i-persons" />
+    <meta property="og:url" content="https://i-persons.com/" />
+    <meta property="og:title" content="i-persons — your digital twin, never without your yes" />
+    <meta property="og:description" content="A living digital twin that knows you, speaks for you and acts for you: by voice, on WhatsApp and on Meta Ray-Ban Display glasses. Every action waits for your yes." />
+    <meta property="og:image" content="https://i-persons.com/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="i-persons: your digital twin, never without your yes" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="i-persons — your digital twin, never without your yes" />
+    <meta name="twitter:description" content="A living digital twin that knows you, speaks for you and acts for you. Every action waits for your yes." />
+    <meta name="twitter:image" content="https://i-persons.com/og-image.png" /><!--/seo-->
+    <meta name="author" content="Yousoft-IT" />
+    <meta name="application-name" content="i-persons" />
+    <meta name="robots" content="index, follow" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"i-persons","url":"https://i-persons.com","logo":"https://i-persons.com/icon-512.png","email":"contact@i-persons.com","parentOrganization":{"@type":"Organization","name":"Yousoft-IT","url":"https://yousoft-it.com"}},{"@type":"WebApplication","name":"i-persons","url":"https://i-persons.com","applicationCategory":"LifestyleApplication","operatingSystem":"Web, iOS, Android, Meta Ray-Ban Display","description":"A living digital twin that knows you, speaks for you and acts for you, never without your yes.","image":"https://i-persons.com/og-image.png","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","description":"$5 of AI credit to start"}}]}</script>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192" />
+    <!-- Home-screen app: Android reads the manifest, iPhone the apple-* tags; the icon is the user's twin (server: http/app-icon.ts). -->
+    <link rel="manifest" href="/api/me/manifest.webmanifest" crossorigin="use-credentials" />
+    <link rel="apple-touch-icon" href="/api/me/app-icon-180.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="i-persons" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" />
+  </head>
+  <body>
+    <div id="root">
+      <!-- Shown before JS loads (and to crawlers); React replaces it on mount. -->
+      <footer class="px-6 py-8 text-center text-xs text-muted">
+        <p>i-persons is developed and operated by <a href="https://yousoft-it.com/" class="underline">Yousoft-IT</a>.</p>
+        <p>i-persons is a product of <a href="https://yousoft-it.com/" class="underline">Yousoft-IT</a>. © 2026 Yousoft-IT. All rights reserved.</p>
+      </footer>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

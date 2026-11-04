@@ -1,0 +1,35 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --color-ink: #050507;
+  --color-panel: #0f1014;
+  --color-line: #23252d;
+  --color-muted: #8b8f9c;
+  --color-rim: #9ec5ff;
+  --color-ok: #4ade80;
+  --color-warn: #fbbf24;
+  --color-bad: #f87171;
+}
+
+html, body, #root { height: 100%; }
+/* The beta bar (components/BetaBar.tsx) sits above the page; --beta-h is 0 when it's hidden. */
+body { padding-top: var(--beta-h, 0px); }
+body { background: var(--color-ink); color: #f5f6f8; -webkit-font-smoothing: antialiased; }
+
+/* Soft rim light behind hero elements, matching the "Book your i-person now" visuals. */
+.rim-glow {
+  background: radial-gradient(60% 50% at 50% 40%, rgba(158, 197, 255, 0.18), transparent 70%),
+              radial-gradient(40% 30% at 50% 100%, rgba(255, 255, 255, 0.06), transparent 70%);
+}
+
+@keyframes slide-in { from { transform: translateX(110%); opacity: 0; } to { transform: none; opacity: 1; } }
+.slide-in { animation: slide-in 0.35s cubic-bezier(0.2, 0.8, 0.2, 1); }
+/* Details sheets: up from the bottom on phones, in from the right on wider screens. */
+@keyframes sheet-up { from { transform: translateY(100%); } to { transform: none; } }
+.sheet-in { animation: sheet-up 0.3s cubic-bezier(0.2, 0.8, 0.2, 1); }
+@media (min-width: 768px) { .sheet-in { animation: slide-in 0.35s cubic-bezier(0.2, 0.8, 0.2, 1); } }
+@media (prefers-reduced-motion: reduce) { .sheet-in, .slide-in { animation: none; } }
+
+@keyframes pulse-ring { 0% { box-shadow: 0 0 0 0 rgba(158,197,255,.45); } 100% { box-shadow: 0 0 0 22px rgba(158,197,255,0); } }
+.pulse-ring { animation: pulse-ring 1.4s ease-out infinite; }

@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="/favicon.svg">
+<title>Privacy Policy · i-persons</title>
+<style>
+  :root { color-scheme: dark; --bg:#000; --fg:#f5f5f5; --muted:#a3a3a3; --line:#262626; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:40px 16px 64px; }
+  a { color:var(--fg); }
+  header { display:flex; justify-content:space-between; align-items:center; margin-bottom:32px; font-size:14px; }
+  header a { text-decoration:none; font-weight:600; }
+  nav a { color:var(--muted); margin-left:16px; font-weight:400; }
+  h1 { font-size:32px; line-height:1.2; margin:0 0 4px; }
+  .date { color:var(--muted); font-size:14px; margin-bottom:32px; }
+  h2 { font-size:19px; margin:36px 0 8px; padding-top:20px; border-top:1px solid var(--line); }
+  li { margin:4px 0; }
+  .note { border:1px solid var(--line); border-radius:12px; padding:12px 16px; color:var(--muted); }
+</style>
+<meta name="author" content="Yousoft-IT">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"i-persons","url":"https://i-persons.com","parentOrganization":{"@type":"Organization","name":"Yousoft-IT","url":"https://yousoft-it.com"}}</script>
+</head>
+<body><main>
+<header><a href="/">i-persons</a><nav><a href="/privacy.html">Privacy</a><a href="/terms.html">Terms</a><a href="/data-deletion.html">Delete data</a></nav></header>
+<h1>Privacy Policy</h1>
+<p class="date">Last updated: October 30, 2026</p>
+
+<p>i-persons (“we”, “us”) is a personal AI assistant that learns how you live and acts for you, by voice on the web and on WhatsApp, always asking for your approval before it does anything on your behalf. This policy explains what data we collect, why, who we share it with, and how you can delete it. i-persons is developed and operated by <a href="https://yousoft-it.com/">Yousoft-IT</a>. Contact: <a href="mailto:contact@i-persons.com">contact@i-persons.com</a>.</p>
+
+<p class="note">i-persons is an early prototype built for the Meta Global AI Developer Hackathon. Purchases and trading in the app are simulations: no real payment is ever made and we never ask for card or bank details.</p>
+
+<h2>What we collect</h2>
+<ul>
+  <li><strong>Account data:</strong> your name, email address and a hashed version of your password (we never store the password itself).</li>
+  <li><strong>Gender and age range:</strong> chosen when you sign up, and editable on “My twin”. Used only to shape your avatar, to suggest a voice, and for aggregate statistics. Never shown publicly, never used for matching or decisions about you, and never given to your i-person.</li>
+  <li><strong>Consent record:</strong> which version of our consent text you accepted, and when.</li>
+  <li><strong>Your photo:</strong> the selfie you take or upload, used to create your i-person’s avatar. A selfie is optional: you can use a ready-made neutral avatar instead.</li>
+  <li><strong>Profile facts:</strong> what you tell your i-person about your routines, goals, preferences, limits and contacts. You can see, edit and delete each fact on the “My twin” page.</li>
+  <li><strong>What you point your twin to:</strong> a page of a website you own (we read that one public page only, with a clearly named “i-persons” user agent, and only if the site’s robots.txt allows it), and LinkedIn text you paste or the profile PDF you upload from LinkedIn’s own “Save to PDF”. We never fetch LinkedIn, Facebook, Instagram or other social networks. What your twin learns becomes facts you can edit or delete; facts from a fetched page wait for your OK first.</li>
+  <li><strong>Conversations:</strong> the text of your messages and your i-person’s replies, on the web and on WhatsApp.</li>
+  <li><strong>Voice:</strong> when you speak, your audio is converted to text. We keep the text, not the recording. WhatsApp voice notes are downloaded, transcribed and then discarded.</li>
+  <li><strong>Actions:</strong> a log of everything your i-person proposed or did (for example emails sent or calendar events booked), with your approval or refusal and the time.</li>
+  <li><strong>Simulated wallet and portfolio:</strong> the spending limits you set and simulated orders and paper trades.</li>
+  <li><strong>WhatsApp number:</strong> if you link WhatsApp, your phone number and the messages you exchange with the i-persons number.</li>
+  <li><strong>Settings:</strong> your language, timezone and any connections you add (for example tool server addresses).</li>
+  <li><strong>Country:</strong> we look up the country of your IP address when you sign up or log in (and the country of your WhatsApp number when you link it), because i-persons is available in selected countries only. The lookup happens on our server using a local database (IP Geolocation by <a href="https://db-ip.com">DB-IP</a>); your IP address is not sent anywhere for it. We store only the country code.</li>
+  <li><strong>Technical data:</strong> standard server logs (IP address, time, request) kept for security and debugging, and a single session cookie that keeps you signed in. We use no advertising or analytics trackers.</li>
+</ul>
+
+<h2>If you connect a mailbox</h2>
+<p>Connecting Outlook or Gmail is optional. When you do:</p>
+<ul>
+  <li><strong>Read-only:</strong> we ask Microsoft or Google for read-only access, and refuse the connection if anything broader is granted.</li>
+  <li><strong>Only the services you activated:</strong> your twin reads only emails from the senders of services you activated in the Service Store (for example amazon.de or booking.com), and only from the last 1, 2 or 3 months, as you choose. The search is done by Microsoft or Google, so other emails are never downloaded.</li>
+  <li><strong>No emails are kept:</strong> each email is turned into structured data (an order line, a stay, a flight) by Meta’s AI model and then discarded. We keep only those rows, insights computed from them, and a fingerprint of the email’s id so it isn’t read twice. Email content is never logged.</li>
+  <li><strong>“Learn who I know” (its own switch, off unless you turn it on):</strong> while reading your emails in the chosen window, your twin sees the names and addresses of senders and recipients, the subjects and the short preview Microsoft or Google shows (never whole emails). It keeps only, per person: the name, the email address, the relationship and role it worked out, a one-line note in its own words (at most 100 characters, never quoted email text) and the date it learned it. Subjects and previews are used only while reading and are never stored or logged.</li>
+  <li><strong>“Import my contacts” and “Import my calendar” (separate switches, off by default):</strong> each asks Microsoft or Google for its read-only permission only when you switch it on. Contacts: names, email addresses, phone numbers and birthdays. Calendar: your events from 30 days back to 90 days ahead.</li>
+  <li><strong>Never shared:</strong> the people you know are never shown on your public page, to visitors or partners, or used for matching or background scans; your twin uses them only when you ask about your own people. Switching an option off offers to delete what it brought in, and disconnecting a mailbox deletes the people and events learned from it.</li>
+  <li><strong>Untrusted content:</strong> text inside emails can never make your twin do anything; it is only read as data.</li>
+  <li><strong>Your access token</strong> is stored encrypted. Disconnecting deletes it (and asks Google to revoke it); you can choose to also delete everything learned from that mailbox. Shrinking the time window deletes what falls outside it.</li>
+  <li>Reading emails uses your AI credit; you see the estimated cost before the first read.</li>
+</ul>
+
+<h2>Partners (companies in the Service Store)</h2>
+<ul>
+  <li>Partners (for example an employer) only reach you if you activate them in the Service Store, and only in the ways you allow: sending you offers, talking to your twin, asking you for things. You can pause or block a partner at any time.</li>
+  <li>Partners see a pseudonymous id for your twin, different for each partner, never your name or contact details. When matching you to an offer, we use what you told your twin (preferences, goals, routines), never your gender or age.</li>
+  <li>Your twin answers a partner’s questions only from those facts, and can’t agree to anything. Interviews, your CV or your contact details are always requests you approve or decline; what you approve is shared once with that partner.</li>
+  <li>Every conversation a partner has with your twin is shown in your Activity, with the full transcript and a “Report partner” button.</li>
+</ul>
+
+<h2>How we use it</h2>
+<ul>
+  <li>To run your i-person: understand what you ask, remember what matters to you, and propose and carry out the actions you approve.</li>
+  <li>To contact you about your i-person, for example a WhatsApp message when it finds something that matches your goals. You can unlink WhatsApp at any time.</li>
+  <li>To keep the service secure and fix problems.</li>
+</ul>
+<p>We do not sell your data, use it for advertising, or use it to train AI models.</p>
+
+<h2>Who we share it with</h2>
+<p>Only the service providers needed to run i-persons, and only the data they need:</p>
+<ul>
+  <li><strong>Meta Platforms</strong> — the Meta Model API processes your messages, voice and photo to generate replies, speech-to-text and your avatar; the WhatsApp Business Platform carries your WhatsApp messages. Meta handles this data under its own terms and privacy policy.</li>
+  <li><strong>Our email provider</strong> — sends the emails you approve your i-person to send, from contact@i-persons.com.</li>
+  <li><strong>Your browser’s speech service</strong> — in some browsers, voice recognition and the spoken voice are provided by the browser maker (for example Google in Chrome).</li>
+  <li><strong>The recipients you choose</strong> — when you approve an email or message, it goes to the person you named, signed as sent by your i-person.</li>
+  <li><strong>Tool servers you connect</strong> — if you add an external tool server, the requests your i-person makes to it (each one approved by you) are sent there.</li>
+</ul>
+<p>We may disclose data if required by law.</p>
+
+<h2>Where and how long we keep it</h2>
+<p>Your data is stored on our server and kept for as long as you have an account. When you delete your account, your data is deleted immediately from our database and your photos from our storage; server logs are kept only as long as needed for security and debugging. Proposed actions you don’t approve expire after 10 minutes.</p>
+
+<h2>Your choices and rights</h2>
+<ul>
+  <li><strong>See and correct:</strong> everything your i-person knows about you is on the “My twin” page, where you can edit or delete it. Your action history is on the “Activity” page.</li>
+  <li><strong>Delete:</strong> delete your whole account at any time from “My twin” → “Your data” → “Delete my account”, or see <a href="/data-deletion.html">Data deletion</a>.</li>
+  <li><strong>Copy:</strong> email us to receive a copy of your data.</li>
+  <li><strong>Stop WhatsApp:</strong> press “Unlink” on the “My twin” page, or block the i-persons number.</li>
+</ul>
+<p>Depending on where you live, you may have further rights (for example under the GDPR) to access, correct, delete, restrict or object to processing, and to complain to your data protection authority. Email us and we’ll respond within 30 days.</p>
+
+<h2>Security</h2>
+<p>We use HTTPS everywhere, hashed passwords, owner-only access to your photos, and approval gates: your i-person cannot send, book or buy anything without your explicit “yes”.</p>
+
+<h2>Children</h2>
+<p>i-persons is for adults only: you must be 18 or older, and we do not knowingly collect data from anyone younger.</p>
+
+<h2>Changes</h2>
+<p>If we change this policy we’ll update the date above, and tell you in the app if the change is significant.</p>
+
+<h2>Contact</h2>
+<p><a href="mailto:contact@i-persons.com">contact@i-persons.com</a></p>
+</main>
+<footer style="max-width:720px;margin:0 auto;padding:24px 16px 40px;color:#a3a3a3;font:13px/1.6 system-ui,-apple-system,'Segoe UI',sans-serif;text-align:center">
+<p style="margin:0">i-persons is a product of <a href="https://yousoft-it.com/" style="color:inherit">Yousoft-IT</a>.</p>
+<p style="margin:0">© 2026 Yousoft-IT. All rights reserved.</p>
+</footer>
+</body></html>
